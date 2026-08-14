@@ -1,0 +1,463 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "资料篇"
+    },
+    {
+      "description": "** Awesome **",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome",
+          "description": "这是个Awesome合集，常见的资料这里面都能找到",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-30T18:21:16Z",
+            "owner": "sindresorhus",
+            "repo": "awesome",
+            "stars": 495444
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-public-datasets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-04T19:54:53Z",
+            "owner": "awesomedata",
+            "repo": "awesome-public-datasets",
+            "stars": 78084
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "architect-awesome",
+          "description": "后端架构师技术图谱",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-04-11T11:32:12Z",
+            "owner": "xingshaocheng",
+            "repo": "architect-awesome",
+            "stars": 60847
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-android-ui",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-05T05:39:52Z",
+            "owner": "wasabeef",
+            "repo": "awesome-android-ui",
+            "stars": 57199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesomeness",
+          "description": "非常不错的语言类学习资料集合",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-06-02T22:46:41Z",
+            "owner": "bayandin",
+            "repo": "awesome-awesomeness",
+            "stars": 33607
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-datascience",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-10T14:39:24Z",
+            "owner": "academic",
+            "repo": "awesome-datascience",
+            "stars": 29814
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-hacking",
+          "description": "黑客工具箱",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-02T22:40:13Z",
+            "owner": "carpedm20",
+            "repo": "awesome-hacking",
+            "stars": 16860
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "杂七杂八、有用没用的Awesome合集",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-23T20:19:22Z",
+            "owner": "jnv",
+            "repo": "lists",
+            "stars": 11414
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-ios-ui",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-03-08T08:57:40Z",
+            "owner": "cjwirth",
+            "repo": "awesome-ios-ui",
+            "stars": 11214
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-AppSec(系统安全)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-02-22T16:39:11Z",
+            "owner": "paragonie",
+            "repo": "awesome-appsec",
+            "stars": 7023
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-MaterialDesign",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-01-06T10:37:47Z",
+            "owner": "lightSky",
+            "repo": "Awesome-MaterialDesign",
+            "stars": 5863
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-dataviz",
+          "description": "数据可视化库及资料",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-01-26T12:36:48Z",
+            "owner": "hal9ai",
+            "repo": "awesome-dataviz",
+            "stars": 4378
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-comment",
+          "description": "神注释大全",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-10-10T02:29:50Z",
+            "owner": "Blankj",
+            "repo": "awesome-comment",
+            "stars": 2579
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-kubernetes-notes",
+          "description": "kubernetes学习资料",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-03-15T10:24:51Z",
+            "owner": "overnote",
+            "repo": "awesome-kubernetes-notes",
+            "stars": 379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-machine-learning",
+          "description": "机器学习资料",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2018-11-15T12:39:05Z",
+            "owner": "jacksu",
+            "repo": "machine-learning",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-es",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-04-27T09:56:20Z",
+            "owner": "jacksu",
+            "repo": "awesome-es",
+            "stars": 193
+          }
+        }
+      ],
+      "title": "GitHub篇"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "工具篇"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Discourse",
+          "description": "Stack Overflow的联合创始人 Jeff Atwood 推出的一个新的开源论坛项目，不少开源项目的社区基于这个项目创建",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-14T02:14:06Z",
+            "owner": "discourse",
+            "repo": "discourse",
+            "stars": 47648
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gatling",
+          "description": "服务器性能压力测试工具，类似的还有wrk",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-12-30T10:33:51Z",
+            "owner": "wg",
+            "repo": "wrk",
+            "stars": 40387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spf13-vim: 让你的vim飞起来！这货好久没更新了，安装也有问题，比较好的替换是：SpaceVim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vim Script",
+            "last_commit": "2025-02-17T14:14:00Z",
+            "owner": "wsdjeg",
+            "repo": "SpaceVim",
+            "stars": 20224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "基于Web技术的跨平台应用开发框架：Revery: facebook基于Reason开发，Native、Fast",
+          "description": ", tauri:Rust开发，小而快，sciter，electron",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Reason",
+            "last_commit": "2022-02-13T22:31:10Z",
+            "owner": "revery-ui",
+            "repo": "revery",
+            "stars": 8045
+          }
+        }
+      ],
+      "title": "平台工具&框架"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Radare2",
+          "description": "逆向工程平台",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T23:21:46Z",
+            "owner": "radareorg",
+            "repo": "radare2",
+            "stars": 24566
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mac下的神兵利器",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-17T04:55:46Z",
+            "owner": "hzlzh",
+            "repo": "Best-App",
+            "stars": 17537
+          }
+        }
+      ],
+      "title": "常用工具"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "d3",
+          "description": "非常知名的数据可视化库（类似的还有NVD3，P5.js，Highcharts，Echart，Flot等）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-28T14:43:01Z",
+            "owner": "d3",
+            "repo": "d3",
+            "stars": 113449
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blockly，谷歌开源的可视化编程组件，不少少儿编程用到了",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T15:23:56Z",
+            "owner": "RaspberryPiFoundation",
+            "repo": "blockly",
+            "stars": 13518
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cytoscape.js",
+          "description": "关系图谱可视化库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T15:43:57Z",
+            "owner": "cytoscape",
+            "repo": "cytoscape.js",
+            "stars": 11159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsplumb",
+          "description": "流程图可视化库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-09-27T07:54:31Z",
+            "owner": "jsplumb",
+            "repo": "jsplumb",
+            "stars": 7766
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Raw",
+          "description": "：非常不错的一款高级数据可视化工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-05-20T20:10:55Z",
+            "owner": "densitydesign",
+            "repo": "raw",
+            "stars": 336
+          }
+        }
+      ],
+      "title": "Web前端"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Metascala: A JVM written in Scala",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2023-07-23T00:16:47Z",
+            "owner": "lihaoyi",
+            "repo": "Metascala",
+            "stars": 1185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "parboiled2",
+          "description": "性能很好的parser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-07T03:41:04Z",
+            "owner": "sirthias",
+            "repo": "parboiled2",
+            "stars": 715
+          }
+        }
+      ],
+      "title": "Scala"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "其他"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T03:09:06.321Z",
+    "original_repository": "stanzhai/be-a-professional-programmer",
+    "original_repository_sha": "ad207abd04286568354f2a533979ebdd8906eaa0",
+    "enhanced_repository": "enhansome/enhansome-be-a-professional-programmer",
+    "enhanced_repository_description": null,
+    "title": "Awesome 前言 with stars"
+  }
+}

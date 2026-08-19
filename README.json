@@ -1,343 +1,1105 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome",
+              "description": "这是个Awesome合集，常见的资料这里面都能找到",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21737465,
+                "language": null,
+                "last_commit": "2026-08-18T13:28:50Z",
+                "owner": "sindresorhus",
+                "repo": "awesome",
+                "stars": 497655
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-public-datasets",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26898879,
+                "language": null,
+                "last_commit": "2026-08-04T19:54:53Z",
+                "owner": "awesomedata",
+                "repo": "awesome-public-datasets",
+                "stars": 78143
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "architect-awesome",
+              "description": "后端架构师技术图谱",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 128398636,
+                "language": null,
+                "last_commit": "2024-04-11T11:32:12Z",
+                "owner": "xingshaocheng",
+                "repo": "architect-awesome",
+                "stars": 60837
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-android-ui",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28428729,
+                "language": null,
+                "last_commit": "2026-06-05T05:39:52Z",
+                "owner": "wasabeef",
+                "repo": "awesome-android-ui",
+                "stars": 57248
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesomeness",
+              "description": "非常不错的语言类学习资料集合",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21600440,
+                "language": "Ruby",
+                "last_commit": "2024-06-02T22:46:41Z",
+                "owner": "bayandin",
+                "repo": "awesome-awesomeness",
+                "stars": 33609
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-datascience",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21515044,
+                "language": null,
+                "last_commit": "2026-08-18T10:27:04Z",
+                "owner": "academic",
+                "repo": "awesome-datascience",
+                "stars": 29839
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-hacking",
+              "description": "黑客工具箱",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28084589,
+                "language": null,
+                "last_commit": "2024-06-02T22:40:13Z",
+                "owner": "carpedm20",
+                "repo": "awesome-hacking",
+                "stars": 16899
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "杂七杂八、有用没用的Awesome合集",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14408715,
+                "language": null,
+                "last_commit": "2026-03-23T20:19:22Z",
+                "owner": "jnv",
+                "repo": "lists",
+                "stars": 11422
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-ios-ui",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33538019,
+                "language": null,
+                "last_commit": "2018-03-08T08:57:40Z",
+                "owner": "cjwirth",
+                "repo": "awesome-ios-ui",
+                "stars": 11217
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-AppSec(系统安全)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34877308,
+                "language": "PHP",
+                "last_commit": "2025-02-22T16:39:11Z",
+                "owner": "paragonie",
+                "repo": "awesome-appsec",
+                "stars": 7034
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome-MaterialDesign",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26414854,
+                "language": null,
+                "last_commit": "2018-01-06T10:37:47Z",
+                "owner": "lightSky",
+                "repo": "Awesome-MaterialDesign",
+                "stars": 5864
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-dataviz",
+              "description": "数据可视化库及资料",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39454666,
+                "language": null,
+                "last_commit": "2024-01-26T12:36:48Z",
+                "owner": "hal9ai",
+                "repo": "awesome-dataviz",
+                "stars": 4380
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-comment",
+              "description": "神注释大全",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 78546446,
+                "language": null,
+                "last_commit": "2020-10-10T02:29:50Z",
+                "owner": "Blankj",
+                "repo": "awesome-comment",
+                "stars": 2579
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-kubernetes-notes",
+              "description": "kubernetes学习资料",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 224084457,
+                "language": "HTML",
+                "last_commit": "2020-03-15T10:24:51Z",
+                "owner": "overnote",
+                "repo": "awesome-kubernetes-notes",
+                "stars": 380
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-machine-learning",
+              "description": "机器学习资料",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79447685,
+                "language": "Jupyter Notebook",
+                "last_commit": "2018-11-15T12:39:05Z",
+                "owner": "jacksu",
+                "repo": "machine-learning",
+                "stars": 251
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-es",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 58841701,
+                "language": null,
+                "last_commit": "2018-04-27T09:56:20Z",
+                "owner": "jacksu",
+                "repo": "awesome-es",
+                "stars": 193
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "system-design-primer",
+              "description": "系统设计入门",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 83222441,
+                "language": "Python",
+                "last_commit": "2026-03-20T01:52:19Z",
+                "owner": "donnemartin",
+                "repo": "system-design-primer",
+                "stars": 364830
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "免费的编程中文书籍索引",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14098069,
+                "language": null,
+                "last_commit": "2026-07-29T00:39:06Z",
+                "owner": "justjavac",
+                "repo": "free-programming-books-zh_CN",
+                "stars": 118394
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Papers we love",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15204860,
+                "language": "Shell",
+                "last_commit": "2026-07-01T09:14:27Z",
+                "owner": "papers-we-love",
+                "repo": "papers-we-love",
+                "stars": 108839
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Every Programmer Should Know",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 101296881,
+                "language": null,
+                "last_commit": "2025-12-29T19:37:02Z",
+                "owner": "mtdvio",
+                "repo": "every-programmer-should-know",
+                "stars": 100264
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "超级棒的机器学习资料（框架，库，软件）",
+              "description": ", 中文翻译版",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21872392,
+                "language": "Python",
+                "last_commit": "2026-08-11T21:49:59Z",
+                "owner": "josephmisiti",
+                "repo": "awesome-machine-learning",
+                "stars": 74070
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PHP 类库框架，资料集合",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14705691,
+                "language": null,
+                "last_commit": "2026-07-13T19:44:57Z",
+                "owner": "ziadoz",
+                "repo": "awesome-php",
+                "stars": 32657
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "《程序员编程艺术 — 面试和算法心得》",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15183485,
+                "language": "C",
+                "last_commit": "2023-02-26T17:05:49Z",
+                "owner": "julycoding",
+                "repo": "The-Art-Of-Programming-By-July-2nd",
+                "stars": 21499
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GoBooks",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35093606,
+                "language": "Go",
+                "last_commit": "2026-07-13T16:08:02Z",
+                "owner": "dariubs",
+                "repo": "GoBooks",
+                "stars": 19621
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Android Learn Notes",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60711512,
+                "language": null,
+                "last_commit": "2024-08-13T17:24:18Z",
+                "owner": "francistao",
+                "repo": "LearningNotes",
+                "stars": 13134
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "日志：每个软件工程师都应该知道的有关实时数据的统一概念",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23281534,
+                "language": null,
+                "last_commit": "2025-03-09T17:28:25Z",
+                "owner": "oldratlee",
+                "repo": "translations",
+                "stars": 6913
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "学习使用Strom",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14135470,
+                "language": "Java",
+                "last_commit": "2026-08-19T11:55:21Z",
+                "owner": "apache",
+                "repo": "storm",
+                "stars": 6698
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Data Science blogs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40242771,
+                "language": "Python",
+                "last_commit": "2024-06-05T09:47:02Z",
+                "owner": "rushter",
+                "repo": "data-science-blogs",
+                "stars": 6341
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15010937,
+                "language": "JavaScript",
+                "last_commit": "2019-03-23T09:06:40Z",
+                "owner": "foru17",
+                "repo": "front-end-collect",
+                "stars": 5713
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Spark Internals",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22749672,
+                "language": null,
+                "last_commit": "2024-04-02T06:14:02Z",
+                "owner": "JerryLead",
+                "repo": "SparkInternals",
+                "stars": 5363
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HTTP接口设计指南",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14461145,
+                "language": null,
+                "last_commit": "2025-11-14T21:13:51Z",
+                "owner": "bolasblack",
+                "repo": "http-api-guide",
+                "stars": 2552
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "借助开源项目学习软件开发",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21982247,
+                "language": "Shell",
+                "last_commit": "2022-05-16T16:50:45Z",
+                "owner": "zhuangbiaowei",
+                "repo": "learn-with-open-source",
+                "stars": 1760
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "一起写Python文章，一起看Python文章",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7576029,
+                "language": "Makefile",
+                "last_commit": "2018-05-07T16:01:19Z",
+                "owner": "MrKiven",
+                "repo": "PyZh",
+                "stars": 1413
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "自然语言处理NLP推荐学习路线及参考资料",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76628776,
+                "language": null,
+                "last_commit": "2017-01-21T14:22:08Z",
+                "owner": "JustFollowUs",
+                "repo": "Natural-Language-Processing",
+                "stars": 831
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "free-programming-books",
+              "description": "中文版",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13733921,
+                "language": null,
+                "last_commit": "2013-10-24T04:29:41Z",
+                "owner": "bingwen",
+                "repo": "free-programming-books",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PingCAP整理的数据库领域的各种材料",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 238696410,
+                "language": null,
+                "last_commit": "2024-08-29T02:14:04Z",
+                "owner": "pingcap",
+                "repo": "awesome-database-learning",
+                "stars": 10959
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Readings in Databases",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4513324,
+                "language": null,
+                "last_commit": "2024-09-09T17:27:37Z",
+                "owner": "rxin",
+                "repo": "db-readings",
+                "stars": 8127
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Build Your Own X，可以学习各类系统的构建核心实现，非常推荐！",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 132750724,
+                "language": "Markdown",
+                "last_commit": "2026-07-14T19:25:58Z",
+                "owner": "codecrafters-io",
+                "repo": "build-your-own-x",
+                "stars": 541123
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "The mother of all demo apps",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52631841,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T21:19:04Z",
+                "owner": "realworld-apps",
+                "repo": "realworld",
+                "stars": 84107
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Android开源项目分类汇总",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15653276,
+                "language": null,
+                "last_commit": "2026-03-25T01:04:16Z",
+                "owner": "Trinea",
+                "repo": "android-open-project",
+                "stars": 31819
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "iOS-100个开源组件",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28707589,
+                "language": "Objective-C",
+                "last_commit": "2022-05-17T07:07:01Z",
+                "owner": "Aufree",
+                "repo": "trip-to-iOS",
+                "stars": 7877
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "简单清晰的JavaScript语言教程，代码示例",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6498492,
+                "language": "JavaScript",
+                "last_commit": "2026-04-16T19:24:09Z",
+                "owner": "airbnb",
+                "repo": "javascript",
+                "stars": 148132
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JavaScript编程规范",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6498492,
+                "language": "JavaScript",
+                "last_commit": "2026-04-16T19:24:09Z",
+                "owner": "airbnb",
+                "repo": "javascript",
+                "stars": 148132
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React-Native学习指南",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33706598,
+                "language": null,
+                "last_commit": "2020-07-27T05:47:48Z",
+                "owner": "reactnativecn",
+                "repo": "react-native-guide",
+                "stars": 17832
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JavaScript必看视频",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21065473,
+                "language": null,
+                "last_commit": "2022-01-20T09:29:27Z",
+                "owner": "bolshchikov",
+                "repo": "js-must-watch",
+                "stars": 13602
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JS必看",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21065473,
+                "language": null,
+                "last_commit": "2022-01-20T09:29:27Z",
+                "owner": "bolshchikov",
+                "repo": "js-must-watch",
+                "stars": 13602
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2014年最新前端开发面试题",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7832932,
+                "language": null,
+                "last_commit": "2024-02-02T02:11:48Z",
+                "owner": "markyun",
+                "repo": "markyun",
+                "stars": 11225
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AngularJS Guide的中文分支",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 10536180,
+                "language": null,
+                "last_commit": "2019-03-25T01:49:15Z",
+                "owner": "jmcunningham",
+                "repo": "AngularJS-Learning",
+                "stars": 10853
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "前端资源",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24817507,
+                "language": null,
+                "last_commit": "2024-06-26T14:26:52Z",
+                "owner": "moklick",
+                "repo": "frontend-stuff",
+                "stars": 8953
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Angular2学习资料",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33820955,
+                "language": null,
+                "last_commit": "2021-02-09T20:22:13Z",
+                "owner": "timjacobi",
+                "repo": "angular-education",
+                "stars": 5337
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AngularJS应用的最佳实践和风格指南",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13362280,
+                "language": null,
+                "last_commit": "2019-01-09T23:20:03Z",
+                "owner": "mgechev",
+                "repo": "angularjs-style-guide",
+                "stars": 4919
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "前端开发指南",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 41167393,
+                "language": "JavaScript",
+                "last_commit": "2026-02-08T09:07:35Z",
+                "owner": "icepy",
+                "repo": "Front-End-Develop-Guide",
+                "stars": 2914
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "node.js中文资料导航",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16604381,
+                "language": null,
+                "last_commit": "2024-04-24T08:48:46Z",
+                "owner": "sergtitov",
+                "repo": "NodeJS-Learning",
+                "stars": 1815
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "收集前端方面的书籍",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15018348,
+                "language": null,
+                "last_commit": "2017-02-13T03:52:37Z",
+                "owner": "lisposter",
+                "repo": "frontend-books",
+                "stars": 224
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "开发者工具箱， free-for-dev",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32484381,
+                "language": "HTML",
+                "last_commit": "2026-08-17T11:45:22Z",
+                "owner": "ripienaar",
+                "repo": "free-for-dev",
+                "stars": 132181
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub秘籍",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18708860,
+                "language": null,
+                "last_commit": "2024-04-15T20:15:56Z",
+                "owner": "tiimgreen",
+                "repo": "github-cheat-sheet",
+                "stars": 58602
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OSINT:dingba.top",
+              "description": ", awesome-osint",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75189212,
+                "language": null,
+                "last_commit": "2026-08-18T00:32:33Z",
+                "owner": "jivoi",
+                "repo": "awesome-osint",
+                "stars": 28166
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "系统管理员工具集合",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16677706,
+                "language": null,
+                "last_commit": "2024-03-26T23:45:17Z",
+                "owner": "kahun",
+                "repo": "awesome-sysadmin",
+                "stars": 24349
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Best-App",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12488374,
+                "language": null,
+                "last_commit": "2026-03-17T04:55:46Z",
+                "owner": "hzlzh",
+                "repo": "Best-App",
+                "stars": 17533
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "游戏开发工具集，MagicTools",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21958186,
+                "language": "Markdown",
+                "last_commit": "2026-08-17T17:57:40Z",
+                "owner": "ellisonleao",
+                "repo": "magictools",
+                "stars": 17150
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "收集整理远程工作相关的资料",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13761875,
+                "language": "Ruby",
+                "last_commit": "2026-08-18T14:39:38Z",
+                "owner": "greatghoul",
+                "repo": "remote-working",
+                "stars": 11716
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nginx开发从入门到精通",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7679716,
+                "language": "Python",
+                "last_commit": "2023-11-20T07:48:54Z",
+                "owner": "taobao",
+                "repo": "nginx-book",
+                "stars": 6961
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Git风格指南",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33088032,
+                "language": null,
+                "last_commit": "2022-09-26T20:12:02Z",
+                "owner": "agis",
+                "repo": "git-style-guide",
+                "stars": 5116
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Google 全球 IP 地址库",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20707182,
+                "language": "TypeScript",
+                "last_commit": "2026-07-06T01:23:01Z",
+                "owner": "justjavac",
+                "repo": "google-ips",
+                "stars": 3483
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Color schemes for hackers",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 511014398,
+                "language": null,
+                "last_commit": "2023-10-12T02:42:54Z",
+                "owner": "chriskempson",
+                "repo": "base16",
+                "stars": 959
+              }
+            }
+          ],
+          "description": "** Awesome **\n** 书籍资料 **\n** 数据库 **\n** 优秀项目 **\n** 前端 & Node.js **\n** 工作，工具 **",
+          "node_type": "group",
+          "title": "GitHub篇"
+        }
+      ],
       "title": "资料篇"
     },
     {
-      "description": "** Awesome **",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Awesome",
-          "description": "这是个Awesome合集，常见的资料这里面都能找到",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-18T13:28:50Z",
-            "owner": "sindresorhus",
-            "repo": "awesome",
-            "stars": 497448
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-public-datasets",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Discourse",
+              "description": "Stack Overflow的联合创始人 Jeff Atwood 推出的一个新的开源论坛项目，不少开源项目的社区基于这个项目创建",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7569578,
+                "language": "Ruby",
+                "last_commit": "2026-08-19T12:16:20Z",
+                "owner": "discourse",
+                "repo": "discourse",
+                "stars": 47674
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gatling",
+              "description": "服务器性能压力测试工具，类似的还有wrk",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3774328,
+                "language": "C",
+                "last_commit": "2023-12-30T10:33:51Z",
+                "owner": "wg",
+                "repo": "wrk",
+                "stars": 40389
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "spf13-vim: 让你的vim飞起来！这货好久没更新了，安装也有问题，比较好的替换是：SpaceVim",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 77358263,
+                "language": "Vim Script",
+                "last_commit": "2025-02-17T14:14:00Z",
+                "owner": "wsdjeg",
+                "repo": "SpaceVim",
+                "stars": 20221
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "基于Web技术的跨平台应用开发框架：Revery: facebook基于Reason开发，Native、Fast",
+              "description": ", tauri:Rust开发，小而快，sciter，electron",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 149477929,
+                "language": "Reason",
+                "last_commit": "2022-02-13T22:31:10Z",
+                "owner": "revery-ui",
+                "repo": "revery",
+                "stars": 8044
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-04T19:54:53Z",
-            "owner": "awesomedata",
-            "repo": "awesome-public-datasets",
-            "stars": 78142
-          }
+          "node_type": "group",
+          "title": "平台工具&框架"
         },
         {
-          "node_type": "item",
-          "title": "architect-awesome",
-          "description": "后端架构师技术图谱",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-04-11T11:32:12Z",
-            "owner": "xingshaocheng",
-            "repo": "architect-awesome",
-            "stars": 60838
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-android-ui",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Radare2",
+              "description": "逆向工程平台",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4869294,
+                "language": "C",
+                "last_commit": "2026-08-19T11:03:59Z",
+                "owner": "radareorg",
+                "repo": "radare2",
+                "stars": 24597
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mac下的神兵利器",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12488374,
+                "language": null,
+                "last_commit": "2026-03-17T04:55:46Z",
+                "owner": "hzlzh",
+                "repo": "Best-App",
+                "stars": 17533
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-06-05T05:39:52Z",
-            "owner": "wasabeef",
-            "repo": "awesome-android-ui",
-            "stars": 57242
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesomeness",
-          "description": "非常不错的语言类学习资料集合",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2024-06-02T22:46:41Z",
-            "owner": "bayandin",
-            "repo": "awesome-awesomeness",
-            "stars": 33609
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-datascience",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-18T10:27:04Z",
-            "owner": "academic",
-            "repo": "awesome-datascience",
-            "stars": 29838
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-hacking",
-          "description": "黑客工具箱",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-06-02T22:40:13Z",
-            "owner": "carpedm20",
-            "repo": "awesome-hacking",
-            "stars": 16898
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "杂七杂八、有用没用的Awesome合集",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-03-23T20:19:22Z",
-            "owner": "jnv",
-            "repo": "lists",
-            "stars": 11422
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-ios-ui",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2018-03-08T08:57:40Z",
-            "owner": "cjwirth",
-            "repo": "awesome-ios-ui",
-            "stars": 11217
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-AppSec(系统安全)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2025-02-22T16:39:11Z",
-            "owner": "paragonie",
-            "repo": "awesome-appsec",
-            "stars": 7032
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome-MaterialDesign",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2018-01-06T10:37:47Z",
-            "owner": "lightSky",
-            "repo": "Awesome-MaterialDesign",
-            "stars": 5863
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-dataviz",
-          "description": "数据可视化库及资料",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-01-26T12:36:48Z",
-            "owner": "hal9ai",
-            "repo": "awesome-dataviz",
-            "stars": 4379
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-comment",
-          "description": "神注释大全",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2020-10-10T02:29:50Z",
-            "owner": "Blankj",
-            "repo": "awesome-comment",
-            "stars": 2579
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-kubernetes-notes",
-          "description": "kubernetes学习资料",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2020-03-15T10:24:51Z",
-            "owner": "overnote",
-            "repo": "awesome-kubernetes-notes",
-            "stars": 380
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-machine-learning",
-          "description": "机器学习资料",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2018-11-15T12:39:05Z",
-            "owner": "jacksu",
-            "repo": "machine-learning",
-            "stars": 251
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-es",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2018-04-27T09:56:20Z",
-            "owner": "jacksu",
-            "repo": "awesome-es",
-            "stars": 193
-          }
+          "node_type": "group",
+          "title": "常用工具"
         }
       ],
-      "title": "GitHub篇"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "工具篇"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Discourse",
-          "description": "Stack Overflow的联合创始人 Jeff Atwood 推出的一个新的开源论坛项目，不少开源项目的社区基于这个项目创建",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-19T02:03:58Z",
-            "owner": "discourse",
-            "repo": "discourse",
-            "stars": 47671
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gatling",
-          "description": "服务器性能压力测试工具，类似的还有wrk",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-12-30T10:33:51Z",
-            "owner": "wg",
-            "repo": "wrk",
-            "stars": 40388
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "spf13-vim: 让你的vim飞起来！这货好久没更新了，安装也有问题，比较好的替换是：SpaceVim",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Vim Script",
-            "last_commit": "2025-02-17T14:14:00Z",
-            "owner": "wsdjeg",
-            "repo": "SpaceVim",
-            "stars": 20221
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "基于Web技术的跨平台应用开发框架：Revery: facebook基于Reason开发，Native、Fast",
-          "description": ", tauri:Rust开发，小而快，sciter，electron",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Reason",
-            "last_commit": "2022-02-13T22:31:10Z",
-            "owner": "revery-ui",
-            "repo": "revery",
-            "stars": 8044
-          }
-        }
-      ],
-      "title": "平台工具&框架"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Radare2",
-          "description": "逆向工程平台",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-19T00:36:40Z",
-            "owner": "radareorg",
-            "repo": "radare2",
-            "stars": 24593
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mac下的神兵利器",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-03-17T04:55:46Z",
-            "owner": "hzlzh",
-            "repo": "Best-App",
-            "stars": 17533
-          }
-        }
-      ],
-      "title": "常用工具"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -346,11 +1108,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 943149,
             "language": "Shell",
             "last_commit": "2026-05-28T14:43:01Z",
             "owner": "d3",
             "repo": "d3",
-            "stars": 113489
+            "stars": 113493
           }
         },
         {
@@ -360,6 +1123,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13872231,
             "language": "JavaScript",
             "last_commit": "2026-08-18T22:24:11Z",
             "owner": "RaspberryPiFoundation",
@@ -374,11 +1138,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2255947,
             "language": "JavaScript",
             "last_commit": "2026-08-14T17:06:37Z",
             "owner": "cytoscape",
             "repo": "cytoscape.js",
-            "stars": 11168
+            "stars": 11170
           }
         },
         {
@@ -388,6 +1153,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2990812,
             "language": null,
             "last_commit": "2024-09-27T07:54:31Z",
             "owner": "jsplumb",
@@ -402,6 +1168,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 243494337,
             "language": null,
             "last_commit": "2023-05-20T20:10:55Z",
             "owner": "densitydesign",
@@ -413,48 +1180,225 @@
       "title": "Web前端"
     },
     {
-      "description": "",
+      "description": "折腾中：Scala、Python、Lua、JavaScript、Go\n待折腾：",
       "items": [
         {
-          "node_type": "item",
-          "title": "Metascala: A JVM written in Scala",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Metascala: A JVM written in Scala",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8531475,
+                "language": "Scala",
+                "last_commit": "2023-07-23T00:16:47Z",
+                "owner": "lihaoyi",
+                "repo": "Metascala",
+                "stars": 1185
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "parboiled2",
+              "description": "性能很好的parser",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9519438,
+                "language": "Scala",
+                "last_commit": "2026-08-07T03:41:04Z",
+                "owner": "sirthias",
+                "repo": "parboiled2",
+                "stars": 715
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Scala",
-            "last_commit": "2023-07-23T00:16:47Z",
-            "owner": "lihaoyi",
-            "repo": "Metascala",
-            "stars": 1185
-          }
+          "node_type": "group",
+          "title": "Scala"
         },
         {
-          "node_type": "item",
-          "title": "parboiled2",
-          "description": "性能很好的parser",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Scala",
-            "last_commit": "2026-08-07T03:41:04Z",
-            "owner": "sirthias",
-            "repo": "parboiled2",
-            "stars": 715
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "HackerNews Swift",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20449739,
+                "language": "Swift",
+                "last_commit": "2023-12-12T16:47:41Z",
+                "owner": "amitburst",
+                "repo": "HackerNews",
+                "stars": 1305
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "糗事百科 Swift",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20594529,
+                "language": "Swift",
+                "last_commit": "2017-10-26T08:56:06Z",
+                "owner": "YANGReal",
+                "repo": "JokeClient-Swift",
+                "stars": 1090
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "知乎日报app",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20718327,
+                "language": "Swift",
+                "last_commit": "2016-07-23T19:58:03Z",
+                "owner": "jxd001",
+                "repo": "Swift-ZhihuDaily",
+                "stars": 508
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mac下简单HTTP Server Swifter",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20571593,
+                "language": "Swift",
+                "last_commit": "2024-03-17T20:32:47Z",
+                "owner": "httpswift",
+                "repo": "swifter",
+                "stars": 4019
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Twitter框架",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20619775,
+                "language": "Swift",
+                "last_commit": "2022-06-23T10:03:20Z",
+                "owner": "mattdonnelly",
+                "repo": "Swifter",
+                "stars": 2349
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swift RSS Reader",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 20442908,
+                "language": "Swift",
+                "last_commit": "2018-02-20T12:08:22Z",
+                "owner": "wantedly",
+                "repo": "swift-rss-sample",
+                "stars": 452
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swift Note",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20463515,
+                "language": "Swift",
+                "last_commit": "2015-01-13T22:15:29Z",
+                "owner": "mslathrop",
+                "repo": "SwiftNote",
+                "stars": 201
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swift Alarm",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20463365,
+                "language": "Swift",
+                "last_commit": "2016-05-09T18:20:40Z",
+                "owner": "ChrisChares",
+                "repo": "swift-alarm",
+                "stars": 194
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swift-PM2.5查询app",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 20830463,
+                "language": "Swift",
+                "last_commit": "2014-09-12T15:15:08Z",
+                "owner": "v5tech",
+                "repo": "Swift-PM25",
+                "stars": 137
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Flappy Swift",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20430314,
+                "language": "Swift",
+                "last_commit": "2023-04-29T03:44:50Z",
+                "owner": "newlinedotco",
+                "repo": "FlappySwift",
+                "stars": 9683
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FanFan Swift",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 20547419,
+                "language": "Swift",
+                "last_commit": "2024-09-02T16:21:03Z",
+                "owner": "geek5nan",
+                "repo": "FanFanSwift",
+                "stars": 209
+              }
+            }
+          ],
+          "description": "客户端\nFramework\n小工具\n游戏",
+          "node_type": "group",
+          "title": "Swift"
         }
       ],
-      "title": "Scala"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "其他"
+      "title": "语言篇"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:04:50.856Z",
+    "last_updated": "2026-08-19T12:18:19.463Z",
     "original_repository": "stanzhai/be-a-professional-programmer",
+    "original_repository_id": 20992284,
     "original_repository_sha": "ad207abd04286568354f2a533979ebdd8906eaa0",
     "enhanced_repository": "enhansome/enhansome-be-a-professional-programmer",
     "enhanced_repository_description": null,

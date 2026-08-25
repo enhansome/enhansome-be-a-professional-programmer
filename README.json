@@ -7,7 +7,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "Linux内核",
               "description": "：全球最大的源代码管理平台，很多知名开源项目都在上面，如Linux内核，OpenStack等",
               "children": [],
               "repo_info": {
@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T19:25:00Z",
                 "owner": "torvalds",
                 "repo": "linux",
-                "stars": 244247
+                "stars": 244296
               }
             }
           ],
@@ -61,7 +61,7 @@
                 "last_commit": "2026-08-21T12:39:13Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 499640
+                "stars": 499690
               }
             },
             {
@@ -76,7 +76,7 @@
                 "last_commit": "2026-08-24T19:56:43Z",
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78598
+                "stars": 78604
               }
             },
             {
@@ -91,7 +91,7 @@
                 "last_commit": "2024-04-11T11:32:12Z",
                 "owner": "xingshaocheng",
                 "repo": "architect-awesome",
-                "stars": 60841
+                "stars": 60842
               }
             },
             {
@@ -106,7 +106,7 @@
                 "last_commit": "2026-06-05T05:39:52Z",
                 "owner": "wasabeef",
                 "repo": "awesome-android-ui",
-                "stars": 57331
+                "stars": 57334
               }
             },
             {
@@ -121,7 +121,7 @@
                 "last_commit": "2024-06-02T22:46:41Z",
                 "owner": "bayandin",
                 "repo": "awesome-awesomeness",
-                "stars": 33623
+                "stars": 33625
               }
             },
             {
@@ -136,7 +136,7 @@
                 "last_commit": "2026-08-22T06:20:28Z",
                 "owner": "academic",
                 "repo": "awesome-datascience",
-                "stars": 29859
+                "stars": 29858
               }
             },
             {
@@ -151,7 +151,7 @@
                 "last_commit": "2024-06-02T22:40:13Z",
                 "owner": "carpedm20",
                 "repo": "awesome-hacking",
-                "stars": 16932
+                "stars": 16933
               }
             },
             {
@@ -196,7 +196,7 @@
                 "last_commit": "2025-02-22T16:39:11Z",
                 "owner": "paragonie",
                 "repo": "awesome-appsec",
-                "stars": 7039
+                "stars": 7040
               }
             },
             {
@@ -226,7 +226,7 @@
                 "last_commit": "2024-01-26T12:36:48Z",
                 "owner": "hal9ai",
                 "repo": "awesome-dataviz",
-                "stars": 4387
+                "stars": 4388
               }
             },
             {
@@ -301,7 +301,7 @@
                 "last_commit": "2026-03-20T01:52:19Z",
                 "owner": "donnemartin",
                 "repo": "system-design-primer",
-                "stars": 365837
+                "stars": 365862
               }
             },
             {
@@ -316,7 +316,7 @@
                 "last_commit": "2026-07-29T00:39:06Z",
                 "owner": "justjavac",
                 "repo": "free-programming-books-zh_CN",
-                "stars": 118503
+                "stars": 118508
               }
             },
             {
@@ -331,7 +331,7 @@
                 "last_commit": "2026-08-24T09:14:23Z",
                 "owner": "papers-we-love",
                 "repo": "papers-we-love",
-                "stars": 108974
+                "stars": 108977
               }
             },
             {
@@ -346,7 +346,7 @@
                 "last_commit": "2025-12-29T19:37:02Z",
                 "owner": "mtdvio",
                 "repo": "every-programmer-should-know",
-                "stars": 100313
+                "stars": 100320
               }
             },
             {
@@ -361,7 +361,7 @@
                 "last_commit": "2026-08-24T19:57:48Z",
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74146
+                "stars": 74148
               }
             },
             {
@@ -421,7 +421,7 @@
                 "last_commit": "2024-08-13T17:24:18Z",
                 "owner": "francistao",
                 "repo": "LearningNotes",
-                "stars": 13132
+                "stars": 13133
               }
             },
             {
@@ -616,7 +616,7 @@
                 "last_commit": "2026-07-14T19:25:58Z",
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 542663
+                "stars": 542721
               }
             },
             {
@@ -631,7 +631,7 @@
                 "last_commit": "2026-08-13T21:19:04Z",
                 "owner": "realworld-apps",
                 "repo": "realworld",
-                "stars": 84137
+                "stars": 84138
               }
             },
             {
@@ -871,7 +871,7 @@
                 "last_commit": "2026-08-24T19:45:41Z",
                 "owner": "ripienaar",
                 "repo": "free-for-dev",
-                "stars": 135080
+                "stars": 135103
               }
             },
             {
@@ -886,7 +886,7 @@
                 "last_commit": "2024-04-15T20:15:56Z",
                 "owner": "tiimgreen",
                 "repo": "github-cheat-sheet",
-                "stars": 58700
+                "stars": 58703
               }
             },
             {
@@ -901,7 +901,7 @@
                 "last_commit": "2026-08-22T17:50:41Z",
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 28297
+                "stars": 28300
               }
             },
             {
@@ -946,7 +946,7 @@
                 "last_commit": "2026-08-17T17:57:40Z",
                 "owner": "ellisonleao",
                 "repo": "magictools",
-                "stars": 17193
+                "stars": 17194
               }
             },
             {
@@ -961,7 +961,7 @@
                 "last_commit": "2026-08-21T02:22:38Z",
                 "owner": "greatghoul",
                 "repo": "remote-working",
-                "stars": 11723
+                "stars": 11722
               }
             },
             {
@@ -1006,7 +1006,7 @@
                 "last_commit": "2026-07-06T01:23:01Z",
                 "owner": "justjavac",
                 "repo": "google-ips",
-                "stars": 3481
+                "stars": 3480
               }
             },
             {
@@ -1046,10 +1046,10 @@
                 "archived": false,
                 "id": 7569578,
                 "language": "Ruby",
-                "last_commit": "2026-08-25T02:04:26Z",
+                "last_commit": "2026-08-25T05:44:24Z",
                 "owner": "discourse",
                 "repo": "discourse",
-                "stars": 47721
+                "stars": 47723
               }
             },
             {
@@ -1079,7 +1079,7 @@
                 "last_commit": "2025-02-17T14:14:00Z",
                 "owner": "wsdjeg",
                 "repo": "SpaceVim",
-                "stars": 20216
+                "stars": 20215
               }
             },
             {
@@ -1113,10 +1113,10 @@
                 "archived": false,
                 "id": 4869294,
                 "language": "C",
-                "last_commit": "2026-08-25T00:15:55Z",
+                "last_commit": "2026-08-25T03:54:47Z",
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24637
+                "stars": 24638
               }
             },
             {
@@ -1153,7 +1153,7 @@
                 "last_commit": "2026-04-23T20:34:38Z",
                 "owner": "robertdavidgraham",
                 "repo": "masscan",
-                "stars": 25947
+                "stars": 25950
               }
             }
           ],
@@ -1179,7 +1179,7 @@
             "last_commit": "2026-05-28T14:43:01Z",
             "owner": "d3",
             "repo": "d3",
-            "stars": 113544
+            "stars": 113545
           }
         },
         {
@@ -1194,7 +1194,7 @@
             "last_commit": "2026-08-24T22:17:47Z",
             "owner": "RaspberryPiFoundation",
             "repo": "blockly",
-            "stars": 13530
+            "stars": 13531
           }
         },
         {
@@ -1299,7 +1299,7 @@
                 "last_commit": "2026-08-24T21:31:37Z",
                 "owner": "google",
                 "repo": "guava",
-                "stars": 51891
+                "stars": 51890
               }
             }
           ],
@@ -1499,7 +1499,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:05:17.089Z",
+    "last_updated": "2026-08-25T05:46:17.477Z",
     "original_repository": "stanzhai/be-a-professional-programmer",
     "original_repository_id": 20992284,
     "original_repository_sha": "ad207abd04286568354f2a533979ebdd8906eaa0",

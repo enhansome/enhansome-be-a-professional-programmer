@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-26T23:09:41Z",
                 "owner": "torvalds",
                 "repo": "linux",
-                "stars": 244624
+                "stars": 244633
               }
             }
           ],
@@ -61,7 +61,7 @@
                 "last_commit": "2026-08-21T12:39:13Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 500347
+                "stars": 500360
               }
             },
             {
@@ -76,7 +76,7 @@
                 "last_commit": "2026-08-26T21:15:40Z",
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78668
+                "stars": 78669
               }
             },
             {
@@ -106,7 +106,7 @@
                 "last_commit": "2026-06-05T05:39:52Z",
                 "owner": "wasabeef",
                 "repo": "awesome-android-ui",
-                "stars": 57361
+                "stars": 57363
               }
             },
             {
@@ -301,7 +301,7 @@
                 "last_commit": "2026-03-20T01:52:19Z",
                 "owner": "donnemartin",
                 "repo": "system-design-primer",
-                "stars": 366317
+                "stars": 366322
               }
             },
             {
@@ -331,7 +331,7 @@
                 "last_commit": "2026-08-24T09:14:23Z",
                 "owner": "papers-we-love",
                 "repo": "papers-we-love",
-                "stars": 109030
+                "stars": 109031
               }
             },
             {
@@ -586,7 +586,7 @@
                 "last_commit": "2024-08-29T02:14:04Z",
                 "owner": "pingcap",
                 "repo": "awesome-database-learning",
-                "stars": 10979
+                "stars": 10980
               }
             },
             {
@@ -616,7 +616,7 @@
                 "last_commit": "2026-07-14T19:25:58Z",
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 543309
+                "stars": 543317
               }
             },
             {
@@ -676,7 +676,7 @@
                 "last_commit": "2026-04-16T19:24:09Z",
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148137
+                "stars": 148139
               }
             },
             {
@@ -691,7 +691,7 @@
                 "last_commit": "2026-04-16T19:24:09Z",
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148137
+                "stars": 148139
               }
             },
             {
@@ -871,7 +871,7 @@
                 "last_commit": "2026-08-26T11:15:36Z",
                 "owner": "ripienaar",
                 "repo": "free-for-dev",
-                "stars": 135464
+                "stars": 135465
               }
             },
             {
@@ -901,7 +901,7 @@
                 "last_commit": "2026-08-25T21:17:45Z",
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 28397
+                "stars": 28407
               }
             },
             {
@@ -1049,7 +1049,7 @@
                 "last_commit": "2026-08-27T09:35:51Z",
                 "owner": "discourse",
                 "repo": "discourse",
-                "stars": 47738
+                "stars": 47739
               }
             },
             {
@@ -1079,7 +1079,7 @@
                 "last_commit": "2025-02-17T14:14:00Z",
                 "owner": "wsdjeg",
                 "repo": "SpaceVim",
-                "stars": 20217
+                "stars": 20216
               }
             },
             {
@@ -1116,7 +1116,7 @@
                 "last_commit": "2026-08-27T08:56:54Z",
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24655
+                "stars": 24656
               }
             },
             {
@@ -1179,7 +1179,7 @@
             "last_commit": "2026-05-28T14:43:01Z",
             "owner": "d3",
             "repo": "d3",
-            "stars": 113565
+            "stars": 113567
           }
         },
         {
@@ -1499,9 +1499,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T10:26:16.425Z",
-    "original_repository": "stanzhai/be-a-professional-programmer",
-    "original_repository_id": 20992284,
+    "last_updated": "2026-08-27T11:25:53.763Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 20992284,
+      "language": null,
+      "last_commit": "2023-02-21T06:47:27Z",
+      "owner": "stanzhai",
+      "repo": "be-a-professional-programmer",
+      "stars": 9900
+    },
     "original_repository_sha": "ad207abd04286568354f2a533979ebdd8906eaa0",
     "enhanced_repository": "enhansome/enhansome-be-a-professional-programmer",
     "enhanced_repository_description": null,

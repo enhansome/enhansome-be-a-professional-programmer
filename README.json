@@ -21,7 +21,7 @@
                 "open_issues": 3,
                 "owner": "torvalds",
                 "repo": "linux",
-                "stars": 244870,
+                "stars": 244882,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
@@ -81,7 +81,7 @@
                 "open_issues": 105,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 500890,
+                "stars": 500921,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -108,7 +108,7 @@
                 "open_issues": 159,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78694,
+                "stars": 78695,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -177,10 +177,10 @@
                 "language": "Ruby",
                 "license": null,
                 "last_commit": "2024-06-02T22:46:41Z",
-                "open_issues": 61,
+                "open_issues": 62,
                 "owner": "bayandin",
                 "repo": "awesome-awesomeness",
-                "stars": 33634,
+                "stars": 33635,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
@@ -254,7 +254,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-03-23T20:19:22Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "jnv",
                 "repo": "lists",
                 "stars": 11441,
@@ -491,7 +491,7 @@
                 "open_issues": 613,
                 "owner": "donnemartin",
                 "repo": "system-design-primer",
-                "stars": 366601,
+                "stars": 366615,
                 "topics": [
                   "design",
                   "design-patterns",
@@ -526,7 +526,7 @@
                 "open_issues": 3,
                 "owner": "justjavac",
                 "repo": "free-programming-books-zh_CN",
-                "stars": 118542,
+                "stars": 118544,
                 "topics": [
                   "android",
                   "angular",
@@ -562,7 +562,7 @@
                 "open_issues": 3,
                 "owner": "papers-we-love",
                 "repo": "papers-we-love",
-                "stars": 109070,
+                "stars": 109073,
                 "topics": [
                   "awesome",
                   "computer-science",
@@ -591,7 +591,7 @@
                 "open_issues": 25,
                 "owner": "mtdvio",
                 "repo": "every-programmer-should-know",
-                "stars": 100347,
+                "stars": 100346,
                 "topics": [
                   "cc-by",
                   "collection",
@@ -618,7 +618,7 @@
                 "open_issues": 29,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74202,
+                "stars": 74203,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
@@ -1046,7 +1046,7 @@
                 "open_issues": 639,
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 543734,
+                "stars": 543767,
                 "topics": [
                   "awesome-list",
                   "free",
@@ -1074,7 +1074,7 @@
                 "open_issues": 27,
                 "owner": "realworld-apps",
                 "repo": "realworld",
-                "stars": 84157,
+                "stars": 84158,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
@@ -1140,7 +1140,7 @@
                 "open_issues": 163,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148144,
+                "stars": 148142,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -1176,7 +1176,7 @@
                 "open_issues": 163,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148144,
+                "stars": 148142,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -1473,7 +1473,7 @@
                 "open_issues": 11,
                 "owner": "ripienaar",
                 "repo": "free-for-dev",
-                "stars": 135786,
+                "stars": 135801,
                 "topics": [
                   "awesome-list",
                   "free-for-developers"
@@ -1497,7 +1497,7 @@
                 "open_issues": 48,
                 "owner": "tiimgreen",
                 "repo": "github-cheat-sheet",
-                "stars": 58774,
+                "stars": 58776,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1524,7 +1524,7 @@
                 "open_issues": 9,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 28635,
+                "stars": 28654,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -1549,7 +1549,7 @@
                 "open_issues": 270,
                 "owner": "kahun",
                 "repo": "awesome-sysadmin",
-                "stars": 24350,
+                "stars": 24351,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
@@ -1595,7 +1595,7 @@
                 "open_issues": 14,
                 "owner": "ellisonleao",
                 "repo": "magictools",
-                "stars": 17212,
+                "stars": 17213,
                 "topics": [
                   "art",
                   "awesome",
@@ -1770,11 +1770,11 @@
                 "id": 7569578,
                 "language": "Ruby",
                 "license": "GPL-2.0",
-                "last_commit": "2026-08-29T03:20:04Z",
-                "open_issues": 281,
+                "last_commit": "2026-08-29T06:47:38Z",
+                "open_issues": 280,
                 "owner": "discourse",
                 "repo": "discourse",
-                "stars": 47750,
+                "stars": 47751,
                 "topics": [
                   "discourse",
                   "ember",
@@ -1889,7 +1889,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-29T01:30:06Z",
-                "open_issues": 824,
+                "open_issues": 825,
                 "owner": "radareorg",
                 "repo": "radare2",
                 "stars": 24674,
@@ -1956,7 +1956,7 @@
                 "open_issues": 414,
                 "owner": "robertdavidgraham",
                 "repo": "masscan",
-                "stars": 25959,
+                "stars": 25958,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
@@ -1988,7 +1988,7 @@
             "open_issues": 20,
             "owner": "d3",
             "repo": "d3",
-            "stars": 113574,
+            "stars": 113573,
             "topics": [
               "chart",
               "charts",
@@ -2037,7 +2037,7 @@
             "open_issues": 16,
             "owner": "cytoscape",
             "repo": "cytoscape.js",
-            "stars": 11188,
+            "stars": 11189,
             "topics": [
               "analysis",
               "cytoscapejs",
@@ -2211,7 +2211,7 @@
                 "open_issues": 0,
                 "owner": "ipader",
                 "repo": "SwiftGuide",
-                "stars": 15992,
+                "stars": 15993,
                 "topics": [
                   "swift",
                   "swift-programming-language"
@@ -2472,7 +2472,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:15:02.082Z",
+    "last_updated": "2026-08-29T07:18:58.083Z",
     "original_repository_info": {
       "archived": false,
       "description": "成为专业程序员路上用到的各种优秀资料、神器及框架",

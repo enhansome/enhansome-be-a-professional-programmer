@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Linux kernel source tree",
+                "homepage": null,
                 "id": 2325298,
                 "language": "C",
-                "last_commit": "2026-08-27T21:12:11Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T01:12:08Z",
+                "open_issues": 3,
                 "owner": "torvalds",
                 "repo": "linux",
-                "stars": 244791
+                "stars": 244870,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             }
@@ -35,12 +40,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of history's greatest software engineers and tech pioneers",
+                "homepage": "https://awesomeprogrammers.com",
                 "id": 66444937,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2021-05-11T19:07:37Z",
+                "open_issues": 10,
                 "owner": "rekihattori",
                 "repo": "awesome-programmers",
-                "stars": 2568
+                "stars": 2568,
+                "topics": [
+                  "awesome",
+                  "best-software-engineers",
+                  "software-engineers"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             }
@@ -58,12 +72,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+                "homepage": null,
                 "id": 21737465,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-21T12:39:13Z",
+                "open_issues": 105,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 500710
+                "stars": 500890,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "lists",
+                  "resources",
+                  "unicorns"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -74,12 +99,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A topic-centric list of HQ open datasets.",
+                "homepage": "https://awesomedataworld.slack.com",
                 "id": 26898879,
                 "language": null,
-                "last_commit": "2026-08-27T22:41:18Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T16:22:22Z",
+                "open_issues": 159,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78688
+                "stars": 78694,
+                "topics": [
+                  "aaron-swartz",
+                  "awesome-public-datasets",
+                  "datasets",
+                  "opendata"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -90,12 +125,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "后端架构师技术图谱",
+                "homepage": null,
                 "id": 128398636,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-04-11T11:32:12Z",
+                "open_issues": 63,
                 "owner": "xingshaocheng",
                 "repo": "architect-awesome",
-                "stars": 60845
+                "stars": 60845,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -106,12 +146,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome Android UI/UX libraries",
+                "homepage": null,
                 "id": 28428729,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-06-05T05:39:52Z",
+                "open_issues": 39,
                 "owner": "wasabeef",
                 "repo": "awesome-android-ui",
-                "stars": 57383
+                "stars": 57392,
+                "topics": [
+                  "android",
+                  "awesome",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -122,12 +171,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome awesomeness",
+                "homepage": null,
                 "id": 21600440,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2024-06-02T22:46:41Z",
+                "open_issues": 61,
                 "owner": "bayandin",
                 "repo": "awesome-awesomeness",
-                "stars": 33633
+                "stars": 33634,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -138,12 +192,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":memo: An awesome Data Science repository to learn and apply for real world problems.",
+                "homepage": null,
                 "id": 21515044,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-27T15:40:38Z",
+                "open_issues": 8,
                 "owner": "academic",
                 "repo": "awesome-datascience",
-                "stars": 29883
+                "stars": 29887,
+                "topics": [
+                  "analytics",
+                  "awesome-list",
+                  "data-mining",
+                  "data-science",
+                  "data-scientists",
+                  "data-visualization",
+                  "deep-learning",
+                  "hacktoberfest",
+                  "machine-learning",
+                  "science"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -154,12 +224,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome Hacking tutorials, tools and resources",
+                "homepage": null,
                 "id": 28084589,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-06-02T22:40:13Z",
+                "open_issues": 69,
                 "owner": "carpedm20",
                 "repo": "awesome-hacking",
-                "stars": 16959
+                "stars": 16964,
+                "topics": [
+                  "awesome",
+                  "hacking"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -170,12 +248,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The definitive list of lists (of lists) curated on GitHub and elsewhere",
+                "homepage": null,
                 "id": 14408715,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-03-23T20:19:22Z",
+                "open_issues": 22,
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11441
+                "stars": 11441,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "curated-lists",
+                  "lists",
+                  "resources"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -186,12 +275,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome iOS UI/UX libraries",
+                "homepage": null,
                 "id": 33538019,
                 "language": null,
+                "license": null,
                 "last_commit": "2018-03-08T08:57:40Z",
+                "open_issues": 12,
                 "owner": "cjwirth",
                 "repo": "awesome-ios-ui",
-                "stars": 11216
+                "stars": 11216,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -202,12 +296,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of resources for learning about application security",
+                "homepage": "https://paragonie.com/projects",
                 "id": 34877308,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-02-22T16:39:11Z",
+                "open_issues": 40,
                 "owner": "paragonie",
                 "repo": "awesome-appsec",
-                "stars": 7046
+                "stars": 7046,
+                "topics": [
+                  "application-security",
+                  "curated",
+                  "owasp",
+                  "reading-list",
+                  "security",
+                  "security-experts"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -218,12 +324,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of material design libs and res.",
+                "homepage": null,
                 "id": 26414854,
                 "language": null,
+                "license": null,
                 "last_commit": "2018-01-06T10:37:47Z",
+                "open_issues": 15,
                 "owner": "lightSky",
                 "repo": "Awesome-MaterialDesign",
-                "stars": 5863
+                "stars": 5863,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -234,12 +345,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.",
+                "homepage": null,
                 "id": 39454666,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2024-01-26T12:36:48Z",
+                "open_issues": 39,
                 "owner": "hal9ai",
                 "repo": "awesome-dataviz",
-                "stars": 4390
+                "stars": 4391,
+                "topics": [
+                  "awesome-list",
+                  "chart",
+                  "data-visualization",
+                  "dataviz",
+                  "visualization",
+                  "visualize-data"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -250,12 +373,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":boom: Funny comments",
+                "homepage": "https://blankj.com/2017/01/11/awesome-comment",
                 "id": 78546446,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-10-10T02:29:50Z",
+                "open_issues": 14,
                 "owner": "Blankj",
                 "repo": "awesome-comment",
-                "stars": 2579
+                "stars": 2579,
+                "topics": [
+                  "awesome",
+                  "comment",
+                  "comments"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -266,12 +398,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "awesome-kubernetes-notes  🎉      ",
+                "homepage": "https://awesome-kubernetes-notes.readthedocs.io/en/latest/",
                 "id": 224084457,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2020-03-15T10:24:51Z",
+                "open_issues": 2,
                 "owner": "overnote",
                 "repo": "awesome-kubernetes-notes",
-                "stars": 381
+                "stars": 381,
+                "topics": [
+                  "awesome",
+                  "cloud-native",
+                  "k8s",
+                  "kubernetes"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -282,12 +424,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "从零基础开始机器学习之旅",
+                "homepage": null,
                 "id": 79447685,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2018-11-15T12:39:05Z",
+                "open_issues": 0,
                 "owner": "jacksu",
                 "repo": "machine-learning",
-                "stars": 251
+                "stars": 251,
+                "topics": [
+                  "anomalydetection",
+                  "awesome",
+                  "deep-learning",
+                  "kaggle",
+                  "machine-learning",
+                  "ml",
+                  "nlp",
+                  "pandas",
+                  "python",
+                  "sklearn",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -298,12 +457,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "简书的优秀资源可以向专题“elasticsearch”投稿，简书外的资源欢迎向本awesome pull requests",
+                "homepage": null,
                 "id": 58841701,
                 "language": null,
+                "license": null,
                 "last_commit": "2018-04-27T09:56:20Z",
+                "open_issues": 1,
                 "owner": "jacksu",
                 "repo": "awesome-es",
-                "stars": 193
+                "stars": 193,
+                "topics": [
+                  "awesome",
+                  "elasticsearch",
+                  "elasticsearch-cluster"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -314,12 +482,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+                "homepage": null,
                 "id": 83222441,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-20T01:52:19Z",
+                "open_issues": 613,
                 "owner": "donnemartin",
                 "repo": "system-design-primer",
-                "stars": 366494
+                "stars": 366601,
+                "topics": [
+                  "design",
+                  "design-patterns",
+                  "design-system",
+                  "development",
+                  "interview",
+                  "interview-practice",
+                  "interview-questions",
+                  "programming",
+                  "python",
+                  "system",
+                  "web",
+                  "web-application",
+                  "webapp"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -330,12 +517,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":books: 免费的计算机编程类中文书籍，欢迎投稿",
+                "homepage": "http://weibo.com/justjavac",
                 "id": 14098069,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-29T00:39:06Z",
+                "open_issues": 3,
                 "owner": "justjavac",
                 "repo": "free-programming-books-zh_CN",
-                "stars": 118534
+                "stars": 118542,
+                "topics": [
+                  "android",
+                  "angular",
+                  "books",
+                  "free",
+                  "ios",
+                  "javascript",
+                  "kotlin",
+                  "pdf",
+                  "programming",
+                  "python",
+                  "react",
+                  "react-native",
+                  "swift",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -346,12 +553,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Papers from the computer science community to read and discuss.",
+                "homepage": "http://paperswelove.org/",
                 "id": 15204860,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2026-08-24T09:14:23Z",
+                "open_issues": 3,
                 "owner": "papers-we-love",
                 "repo": "papers-we-love",
-                "stars": 109055
+                "stars": 109070,
+                "topics": [
+                  "awesome",
+                  "computer-science",
+                  "meetup",
+                  "papers",
+                  "programming",
+                  "read-papers",
+                  "theory"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -362,12 +582,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of (mostly) technical things every software developer should know about",
+                "homepage": null,
                 "id": 101296881,
                 "language": null,
+                "license": "CC-BY-4.0",
                 "last_commit": "2025-12-29T19:37:02Z",
+                "open_issues": 25,
                 "owner": "mtdvio",
                 "repo": "every-programmer-should-know",
-                "stars": 100346
+                "stars": 100347,
+                "topics": [
+                  "cc-by",
+                  "collection",
+                  "computer-science",
+                  "educational",
+                  "novice"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -378,12 +609,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+                "homepage": null,
                 "id": 21872392,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T15:29:10Z",
+                "open_issues": 29,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74193
+                "stars": 74202,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -394,12 +630,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things.",
+                "homepage": null,
                 "id": 14705691,
                 "language": null,
+                "license": "WTFPL",
                 "last_commit": "2026-07-13T19:44:57Z",
+                "open_issues": 85,
                 "owner": "ziadoz",
                 "repo": "awesome-php",
-                "stars": 32670
+                "stars": 32671,
+                "topics": [
+                  "awesome",
+                  "awesome-lists",
+                  "php",
+                  "php-applications",
+                  "php-framework",
+                  "php-installation",
+                  "php-library"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -410,12 +659,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售",
+                "homepage": null,
                 "id": 15183485,
                 "language": "C",
+                "license": null,
                 "last_commit": "2023-02-26T17:05:49Z",
+                "open_issues": 64,
                 "owner": "julycoding",
                 "repo": "The-Art-Of-Programming-By-July-2nd",
-                "stars": 21499
+                "stars": 21499,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -426,12 +680,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "List of Golang books",
+                "homepage": null,
                 "id": 35093606,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2026-07-13T16:08:02Z",
+                "open_issues": 0,
                 "owner": "dariubs",
                 "repo": "GoBooks",
-                "stars": 19638
+                "stars": 19641,
+                "topics": [
+                  "awesome",
+                  "awesome-go",
+                  "awesome-golang",
+                  "awesome-list",
+                  "awesome-lists",
+                  "book",
+                  "books",
+                  "development",
+                  "devops",
+                  "go",
+                  "go-books",
+                  "gobooks",
+                  "golang",
+                  "golang-books",
+                  "list",
+                  "resources",
+                  "roadmap"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -442,12 +719,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enjoy Learning.",
+                "homepage": null,
                 "id": 60711512,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-08-13T17:24:18Z",
+                "open_issues": 93,
                 "owner": "francistao",
                 "repo": "LearningNotes",
-                "stars": 13135
+                "stars": 13134,
+                "topics": [
+                  "android",
+                  "java",
+                  "jvm"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -458,12 +744,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐼  Chinese translations for classic software development resources",
+                "homepage": "https://github.com/oldratlee/translations",
                 "id": 23281534,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2025-03-09T17:28:25Z",
+                "open_issues": 28,
                 "owner": "oldratlee",
                 "repo": "translations",
-                "stars": 6913
+                "stars": 6913,
+                "topics": [
+                  "api",
+                  "api-design",
+                  "chinese-translation",
+                  "concurrency",
+                  "consensus",
+                  "design",
+                  "design-principle",
+                  "distributed-systems",
+                  "elixir",
+                  "erlang",
+                  "experiment",
+                  "functional-programming",
+                  "git",
+                  "lisp",
+                  "paxos",
+                  "python",
+                  "reactive",
+                  "simplified-chinese",
+                  "translation",
+                  "translations"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -474,12 +786,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Storm",
+                "homepage": "https://storm.apache.org/",
                 "id": 14135470,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T07:34:40Z",
+                "open_issues": 31,
                 "owner": "apache",
                 "repo": "storm",
-                "stars": 6698
+                "stars": 6698,
+                "topics": [
+                  "apache",
+                  "distributed",
+                  "storm",
+                  "streaming"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -490,12 +812,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of data science blogs",
+                "homepage": "http://rushter.com/dsreader/",
                 "id": 40242771,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-06-05T09:47:02Z",
+                "open_issues": 13,
                 "owner": "rushter",
                 "repo": "data-science-blogs",
-                "stars": 6340
+                "stars": 6339,
+                "topics": [
+                  "data-science",
+                  "machine-learning"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -506,12 +836,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者",
+                "homepage": null,
                 "id": 15010937,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-03-23T09:06:40Z",
+                "open_issues": 2,
                 "owner": "foru17",
                 "repo": "front-end-collect",
-                "stars": 5712
+                "stars": 5712,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -522,12 +857,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Notes talking about the design and implementation of Apache Spark",
+                "homepage": null,
                 "id": 22749672,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-04-02T06:14:02Z",
+                "open_issues": 31,
                 "owner": "JerryLead",
                 "repo": "SparkInternals",
-                "stars": 5362
+                "stars": 5362,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -538,12 +878,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 14461145,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2025-11-14T21:13:51Z",
+                "open_issues": 0,
                 "owner": "bolasblack",
                 "repo": "http-api-guide",
-                "stars": 2553
+                "stars": 2553,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -554,12 +899,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "借助开源项目，学习软件开发",
+                "homepage": null,
                 "id": 21982247,
                 "language": "Shell",
+                "license": "NOASSERTION",
                 "last_commit": "2022-05-16T16:50:45Z",
+                "open_issues": 8,
                 "owner": "zhuangbiaowei",
                 "repo": "learn-with-open-source",
-                "stars": 1759
+                "stars": 1759,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -570,12 +920,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":books: 一起写Python文章，一起看Python文章 - 利用readthedocs的Python技术文章的收集和翻译。",
+                "homepage": "http://pyzh.readthedocs.org",
                 "id": 7576029,
                 "language": "Makefile",
+                "license": "BSD-2-Clause",
                 "last_commit": "2018-05-07T16:01:19Z",
+                "open_issues": 5,
                 "owner": "MrKiven",
                 "repo": "PyZh",
-                "stars": 1413
+                "stars": 1413,
+                "topics": [
+                  "documents",
+                  "python",
+                  "zh-cn"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -586,12 +945,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 76628776,
                 "language": null,
+                "license": null,
                 "last_commit": "2017-01-21T14:22:08Z",
+                "open_issues": 0,
                 "owner": "JustFollowUs",
                 "repo": "Natural-Language-Processing",
-                "stars": 831
+                "stars": 831,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -602,12 +966,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "http://resrc.io/list/10/list-of-free-programming-books/",
                 "id": 13733921,
                 "language": null,
+                "license": "Unlicense",
                 "last_commit": "2013-10-24T04:29:41Z",
+                "open_issues": 0,
                 "owner": "bingwen",
                 "repo": "free-programming-books",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -618,12 +987,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of learning materials to understand databases internals",
+                "homepage": null,
                 "id": 238696410,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-08-29T02:14:04Z",
+                "open_issues": 16,
                 "owner": "pingcap",
                 "repo": "awesome-database-learning",
-                "stars": 10987
+                "stars": 10988,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "blogs",
+                  "books",
+                  "course",
+                  "database",
+                  "papers"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -634,12 +1016,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Readings in Databases",
+                "homepage": null,
                 "id": 4513324,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-09-09T17:27:37Z",
+                "open_issues": 10,
                 "owner": "rxin",
                 "repo": "db-readings",
-                "stars": 8133
+                "stars": 8134,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -650,12 +1037,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Master programming by recreating your favorite technologies from scratch.",
+                "homepage": "https://codecrafters.io",
                 "id": 132750724,
                 "language": "Markdown",
+                "license": null,
                 "last_commit": "2026-07-14T19:25:58Z",
+                "open_issues": 639,
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 543577
+                "stars": 543734,
+                "topics": [
+                  "awesome-list",
+                  "free",
+                  "programming",
+                  "tutorial-code",
+                  "tutorial-exercises",
+                  "tutorials"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -666,12 +1065,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",
+                "homepage": "https://docs.realworld.show",
                 "id": 52631841,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T06:00:45Z",
+                "open_issues": 27,
                 "owner": "realworld-apps",
                 "repo": "realworld",
-                "stars": 84154
+                "stars": 84157,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -682,12 +1086,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A categorized collection of Android Open Source Projects,  More powerful web version:",
+                "homepage": "https://p.codekk.com/",
                 "id": 15653276,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-25T01:04:16Z",
+                "open_issues": 31,
                 "owner": "Trinea",
                 "repo": "android-open-project",
-                "stars": 31813
+                "stars": 31812,
+                "topics": [
+                  "android",
+                  "open-source-project"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -698,12 +1110,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of delightful iOS resources.",
+                "homepage": null,
                 "id": 28707589,
                 "language": "Objective-C",
+                "license": null,
                 "last_commit": "2022-05-17T07:07:01Z",
+                "open_issues": 3,
                 "owner": "Aufree",
                 "repo": "trip-to-iOS",
-                "stars": 7876
+                "stars": 7876,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -714,12 +1131,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaScript Style Guide",
+                "homepage": null,
                 "id": 6498492,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-04-16T19:24:09Z",
+                "open_issues": 163,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148142
+                "stars": 148144,
+                "topics": [
+                  "arrow-functions",
+                  "es2015",
+                  "es2016",
+                  "es2017",
+                  "es2018",
+                  "es6",
+                  "eslint",
+                  "javascript",
+                  "linting",
+                  "naming-conventions",
+                  "style-guide",
+                  "style-linter",
+                  "styleguide",
+                  "tc39"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -730,12 +1167,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaScript Style Guide",
+                "homepage": null,
                 "id": 6498492,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-04-16T19:24:09Z",
+                "open_issues": 163,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148142
+                "stars": 148144,
+                "topics": [
+                  "arrow-functions",
+                  "es2015",
+                  "es2016",
+                  "es2017",
+                  "es2018",
+                  "es6",
+                  "eslint",
+                  "javascript",
+                  "linting",
+                  "naming-conventions",
+                  "style-guide",
+                  "style-linter",
+                  "styleguide",
+                  "tc39"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -746,12 +1203,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React Native指南汇集了各类react-native学习资源、开源App和组件",
+                "homepage": null,
                 "id": 33706598,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-07-27T05:47:48Z",
+                "open_issues": 4,
                 "owner": "reactnativecn",
                 "repo": "react-native-guide",
-                "stars": 17830
+                "stars": 17830,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -762,12 +1224,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Must-watch videos about javascript",
+                "homepage": null,
                 "id": 21065473,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2022-01-20T09:29:27Z",
+                "open_issues": 0,
                 "owner": "bolshchikov",
                 "repo": "js-must-watch",
-                "stars": 13606
+                "stars": 13604,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "education",
+                  "javascript",
+                  "videos",
+                  "watch"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -778,12 +1252,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Must-watch videos about javascript",
+                "homepage": null,
                 "id": 21065473,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2022-01-20T09:29:27Z",
+                "open_issues": 0,
                 "owner": "bolshchikov",
                 "repo": "js-must-watch",
-                "stars": 13606
+                "stars": 13604,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "education",
+                  "javascript",
+                  "videos",
+                  "watch"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -794,12 +1280,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "在Github的学习片段",
+                "homepage": "http://markyun.github.io/",
                 "id": 7832932,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-02-02T02:11:48Z",
+                "open_issues": 33,
                 "owner": "markyun",
                 "repo": "markyun",
-                "stars": 11223
+                "stars": 11223,
+                "topics": [
+                  "front-end",
+                  "front-end-developer",
+                  "front-end-interview-question"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -810,12 +1305,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A bunch of links to blog posts, articles, videos, etc for learning AngularJS",
+                "homepage": null,
                 "id": 10536180,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-03-25T01:49:15Z",
+                "open_issues": 9,
                 "owner": "jmcunningham",
                 "repo": "AngularJS-Learning",
-                "stars": 10851
+                "stars": 10850,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -826,12 +1326,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📝 A continuously expanded list of frameworks, libraries and tools I used/want to use for building things on the web. Mostly JavaScript.",
+                "homepage": null,
                 "id": 24817507,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-26T14:26:52Z",
+                "open_issues": 18,
                 "owner": "moklick",
                 "repo": "frontend-stuff",
-                "stars": 8950
+                "stars": 8950,
+                "topics": [
+                  "frontend",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -842,12 +1350,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of helpful material to develop using Angular",
+                "homepage": null,
                 "id": 33820955,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-02-09T20:22:13Z",
+                "open_issues": 6,
                 "owner": "timjacobi",
                 "repo": "angular-education",
-                "stars": 5337
+                "stars": 5337,
+                "topics": [
+                  "angular",
+                  "angular2-components",
+                  "angular2-demo",
+                  "angular2-typescript",
+                  "ngrx"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -858,12 +1377,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📚 Community-driven set of best practices for AngularJS application development",
+                "homepage": "https://mgechev.github.io/angularjs-style-guide/",
                 "id": 13362280,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2019-01-09T23:20:03Z",
+                "open_issues": 4,
                 "owner": "mgechev",
                 "repo": "angularjs-style-guide",
-                "stars": 4917
+                "stars": 4916,
+                "topics": [
+                  "angularjs",
+                  "best-practices"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -874,12 +1401,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "💰 Awesome The Front End Develop Guide：这份指南汇集了前端开发所使用语言的主流学习资源，并以开发者的视角进行整理编排而成。",
+                "homepage": null,
                 "id": 41167393,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-02-08T09:07:35Z",
+                "open_issues": 0,
                 "owner": "icepy",
                 "repo": "Front-End-Develop-Guide",
-                "stars": 2914
+                "stars": 2914,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -890,12 +1422,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This page contains collection of curated links to blog posts, articles, videos, tutorials, books, frameworks, modules, IDEs, testing tools, hosting providers, etc. to help you learn Node.js and keep up to date.",
+                "homepage": null,
                 "id": 16604381,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-04-24T08:48:46Z",
+                "open_issues": 4,
                 "owner": "sergtitov",
                 "repo": "NodeJS-Learning",
-                "stars": 1814
+                "stars": 1814,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -906,12 +1443,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":books: Collection of books about FE",
+                "homepage": null,
                 "id": 15018348,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2017-02-13T03:52:37Z",
+                "open_issues": 2,
                 "owner": "lisposter",
                 "repo": "frontend-books",
-                "stars": 224
+                "stars": 224,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -922,12 +1464,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+                "homepage": "https://free-for.dev/",
                 "id": 32484381,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-08-28T08:34:33Z",
+                "open_issues": 11,
                 "owner": "ripienaar",
                 "repo": "free-for-dev",
-                "stars": 135686
+                "stars": 135786,
+                "topics": [
+                  "awesome-list",
+                  "free-for-developers"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -938,12 +1488,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of cool features of Git and GitHub.",
+                "homepage": "http://git.io/sheet",
                 "id": 18708860,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-04-15T20:15:56Z",
+                "open_issues": 48,
                 "owner": "tiimgreen",
                 "repo": "github-cheat-sheet",
-                "stars": 58756
+                "stars": 58774,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "git",
+                  "github",
+                  "list"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -954,12 +1515,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":scream: A curated list of amazingly awesome OSINT",
+                "homepage": null,
                 "id": 75189212,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T21:17:45Z",
+                "open_issues": 9,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 28556
+                "stars": 28635,
+                "topics": [
+                  "awesome-list",
+                  "osint",
+                  "website"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -970,12 +1540,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.",
+                "homepage": null,
                 "id": 16677706,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2024-03-26T23:45:17Z",
+                "open_issues": 270,
                 "owner": "kahun",
                 "repo": "awesome-sysadmin",
-                "stars": 24351
+                "stars": 24350,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -986,12 +1561,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "收集&推荐优秀的 Apps/硬件/技巧/周边等",
+                "homepage": null,
                 "id": 12488374,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-03-17T04:55:46Z",
+                "open_issues": 260,
                 "owner": "hzlzh",
                 "repo": "Best-App",
-                "stars": 17535
+                "stars": 17535,
+                "topics": [
+                  "app",
+                  "mac",
+                  "macos"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -1002,12 +1586,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":video_game: :pencil: A list of Game Development resources to make magic happen.",
+                "homepage": null,
                 "id": 21958186,
                 "language": "Markdown",
-                "last_commit": "2026-08-25T12:55:42Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T02:14:32Z",
+                "open_issues": 14,
                 "owner": "ellisonleao",
                 "repo": "magictools",
-                "stars": 17209
+                "stars": 17212,
+                "topics": [
+                  "art",
+                  "awesome",
+                  "awesome-list",
+                  "board-games",
+                  "curated",
+                  "design",
+                  "frameworks",
+                  "game-design",
+                  "game-development",
+                  "game-engine",
+                  "game-jam",
+                  "game-programming",
+                  "gamedev",
+                  "games",
+                  "hacktoberfest",
+                  "list"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -1018,12 +1624,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "收集整理远程工作相关的资料",
+                "homepage": "https://remote-china.com/",
                 "id": 13761875,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-08-21T02:22:38Z",
+                "open_issues": 1,
                 "owner": "greatghoul",
                 "repo": "remote-working",
-                "stars": 11734
+                "stars": 11736,
+                "topics": [
+                  "china",
+                  "freelancer",
+                  "remote-work",
+                  "remote-workers",
+                  "soho",
+                  "telecommunications",
+                  "work-from-home"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -1034,12 +1653,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nginx开发从入门到精通",
+                "homepage": null,
                 "id": 7679716,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-11-20T07:48:54Z",
+                "open_issues": 542,
                 "owner": "taobao",
                 "repo": "nginx-book",
-                "stars": 6963
+                "stars": 6963,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -1050,12 +1674,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Git Style Guide",
+                "homepage": null,
                 "id": 33088032,
                 "language": null,
+                "license": "CC-BY-4.0",
                 "last_commit": "2022-09-26T20:12:02Z",
+                "open_issues": 0,
                 "owner": "agis",
                 "repo": "git-style-guide",
-                "stars": 5116
+                "stars": 5116,
+                "topics": [
+                  "git",
+                  "style",
+                  "style-guide",
+                  "styleguide"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -1066,12 +1700,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google 全球 IP 地址库，按国家/地区整理并提供 npm 查询 API Google IP address list grouped by country with JSON data and query helpers.",
+                "homepage": null,
                 "id": 20707182,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-07-06T01:23:01Z",
+                "open_issues": 7,
                 "owner": "justjavac",
                 "repo": "google-ips",
-                "stars": 3481
+                "stars": 3482,
+                "topics": [
+                  "gfw",
+                  "google",
+                  "ip"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -1082,12 +1725,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Framework for building Themes",
+                "homepage": null,
                 "id": 511014398,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-10-12T02:42:54Z",
+                "open_issues": 1,
                 "owner": "chriskempson",
                 "repo": "base16",
-                "stars": 961
+                "stars": 963,
+                "topics": [
+                  "base16",
+                  "colour-schemes",
+                  "framework",
+                  "guidelines",
+                  "themes"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             }
@@ -1111,12 +1765,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A platform for community discussion. Free, open, simple.",
+                "homepage": "https://www.discourse.org",
                 "id": 7569578,
                 "language": "Ruby",
-                "last_commit": "2026-08-28T11:17:41Z",
+                "license": "GPL-2.0",
+                "last_commit": "2026-08-29T03:20:04Z",
+                "open_issues": 281,
                 "owner": "discourse",
                 "repo": "discourse",
-                "stars": 47745
+                "stars": 47750,
+                "topics": [
+                  "discourse",
+                  "ember",
+                  "forum",
+                  "javascript",
+                  "postgresql",
+                  "rails",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -1127,12 +1794,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modern HTTP benchmarking tool",
+                "homepage": null,
                 "id": 3774328,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2023-12-30T10:33:51Z",
+                "open_issues": 203,
                 "owner": "wg",
                 "repo": "wrk",
-                "stars": 40398
+                "stars": 40400,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -1143,12 +1815,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A modular configuration of Vim and Neovim",
+                "homepage": "https://spacevim.org/",
                 "id": 77358263,
                 "language": "Vim Script",
+                "license": "GPL-3.0",
                 "last_commit": "2025-02-17T14:14:00Z",
+                "open_issues": 5,
                 "owner": "wsdjeg",
                 "repo": "SpaceVim",
-                "stars": 20216
+                "stars": 20216,
+                "topics": [
+                  "neovim",
+                  "neovim-plugin",
+                  "spacevim",
+                  "vim",
+                  "vim-plugin",
+                  "vimrc"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -1159,12 +1843,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":zap: Native, high-performance, cross-platform desktop apps - built with Reason!",
+                "homepage": "https://www.outrunlabs.com/revery/",
                 "id": 149477929,
                 "language": "Reason",
+                "license": "MIT",
                 "last_commit": "2022-02-13T22:31:10Z",
+                "open_issues": 112,
                 "owner": "revery-ui",
                 "repo": "revery",
-                "stars": 8043
+                "stars": 8043,
+                "topics": [
+                  "app",
+                  "cross-platform",
+                  "desktop",
+                  "desktop-apps",
+                  "electron",
+                  "native",
+                  "ocaml",
+                  "react",
+                  "reason",
+                  "reasonml",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             }
@@ -1182,12 +1883,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UNIX-like reverse engineering framework and command-line toolset",
+                "homepage": "https://www.radare.org",
                 "id": 4869294,
                 "language": "C",
-                "last_commit": "2026-08-28T05:16:57Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T01:30:06Z",
+                "open_issues": 824,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24670
+                "stars": 24674,
+                "topics": [
+                  "binary-analysis",
+                  "c",
+                  "commandline",
+                  "disassembler",
+                  "forensics",
+                  "hacktoberfest",
+                  "malware-analysis",
+                  "radare2",
+                  "reverse-engineering",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -1198,12 +1915,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "收集&推荐优秀的 Apps/硬件/技巧/周边等",
+                "homepage": null,
                 "id": 12488374,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-03-17T04:55:46Z",
+                "open_issues": 260,
                 "owner": "hzlzh",
                 "repo": "Best-App",
-                "stars": 17535
+                "stars": 17535,
+                "topics": [
+                  "app",
+                  "mac",
+                  "macos"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             }
@@ -1221,12 +1947,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",
+                "homepage": null,
                 "id": 11715753,
                 "language": "C",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-04-23T20:34:38Z",
+                "open_issues": 414,
                 "owner": "robertdavidgraham",
                 "repo": "masscan",
-                "stars": 25958
+                "stars": 25959,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             }
@@ -1248,12 +1979,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:",
+            "homepage": "https://d3js.org",
             "id": 943149,
             "language": "Shell",
+            "license": "ISC",
             "last_commit": "2026-05-28T14:43:01Z",
+            "open_issues": 20,
             "owner": "d3",
             "repo": "d3",
-            "stars": 113575
+            "stars": 113574,
+            "topics": [
+              "chart",
+              "charts",
+              "d3",
+              "data-visualization",
+              "svg",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T12:06:19.774Z"
         },
@@ -1264,12 +2007,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The web-based visual programming editor.",
+            "homepage": "https://blockly.com",
             "id": 13872231,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T22:56:58Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T22:44:20Z",
+            "open_issues": 383,
             "owner": "RaspberryPiFoundation",
             "repo": "blockly",
-            "stars": 13536
+            "stars": 13538,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:06:19.774Z"
         },
@@ -1280,12 +2028,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Graph theory (network) library for visualisation and analysis",
+            "homepage": "https://js.cytoscape.org",
             "id": 2255947,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T11:57:18Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T21:47:05Z",
+            "open_issues": 16,
             "owner": "cytoscape",
             "repo": "cytoscape.js",
-            "stars": 11188
+            "stars": 11188,
+            "topics": [
+              "analysis",
+              "cytoscapejs",
+              "graph-theory",
+              "javascript",
+              "network",
+              "visualisation",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T12:06:19.774Z"
         },
@@ -1296,12 +2057,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visual connectivity for webapps",
+            "homepage": "https://jsplumbtoolkit.com",
             "id": 2990812,
             "language": null,
+            "license": null,
             "last_commit": "2024-09-27T07:54:31Z",
+            "open_issues": 0,
             "owner": "jsplumb",
             "repo": "jsplumb",
-            "stars": 7766
+            "stars": 7766,
+            "topics": [
+              "diagram",
+              "flowchart",
+              "gojs",
+              "html5",
+              "jointjs",
+              "nextjs",
+              "react",
+              "reactflow",
+              "reactjs",
+              "svelte",
+              "svelteflow",
+              "sveltekit",
+              "svg",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T12:06:19.774Z"
         },
@@ -1312,12 +2093,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The missing link between spreadsheets and data visualization",
+            "homepage": "https://rawgraphs.io/",
             "id": 243494337,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2023-05-20T20:10:55Z",
+            "open_issues": 1,
             "owner": "densitydesign",
             "repo": "raw",
-            "stars": 336
+            "stars": 336,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:06:19.774Z"
         }
@@ -1336,12 +2122,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A JVM written in Scala",
+                "homepage": null,
                 "id": 8531475,
                 "language": "Scala",
+                "license": null,
                 "last_commit": "2023-07-23T00:16:47Z",
+                "open_issues": 0,
                 "owner": "lihaoyi",
                 "repo": "Metascala",
-                "stars": 1185
+                "stars": 1185,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -1352,12 +2143,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A macro-based PEG parser generator for Scala 2.10+",
+                "homepage": null,
                 "id": 9519438,
                 "language": "Scala",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T04:10:58Z",
+                "open_issues": 35,
                 "owner": "sirthias",
                 "repo": "parboiled2",
-                "stars": 715
+                "stars": 715,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             }
@@ -1375,12 +2171,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google core libraries for Java",
+                "homepage": "https://guava.dev/",
                 "id": 20300177,
                 "language": "Java",
-                "last_commit": "2026-08-27T01:21:47Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T19:41:24Z",
+                "open_issues": 748,
                 "owner": "google",
                 "repo": "guava",
-                "stars": 51896
+                "stars": 51896,
+                "topics": [
+                  "guava",
+                  "java"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             }
@@ -1398,12 +2202,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Swift Featured Projects in brain Mapping",
+                "homepage": null,
                 "id": 20822291,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2026-08-22T01:31:55Z",
+                "open_issues": 0,
                 "owner": "ipader",
                 "repo": "SwiftGuide",
-                "stars": 15992
+                "stars": 15992,
+                "topics": [
+                  "swift",
+                  "swift-programming-language"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -1414,12 +2226,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Hacker News reader iOS app written in Swift.",
+                "homepage": null,
                 "id": 20449739,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2023-12-12T16:47:41Z",
+                "open_issues": 1,
                 "owner": "amitburst",
                 "repo": "HackerNews",
-                "stars": 1305
+                "stars": 1305,
+                "topics": [
+                  "firebase",
+                  "hacker-news",
+                  "ios",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -1430,12 +2252,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 20594529,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2017-10-26T08:56:06Z",
+                "open_issues": 7,
                 "owner": "YANGReal",
                 "repo": "JokeClient-Swift",
-                "stars": 1090
+                "stars": 1090,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -1446,12 +2273,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ZhihuDaily with Swift language",
+                "homepage": null,
                 "id": 20718327,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2016-07-23T19:58:03Z",
+                "open_issues": 6,
                 "owner": "jxd001",
                 "repo": "Swift-ZhihuDaily",
-                "stars": 508
+                "stars": 508,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -1462,12 +2294,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tiny http server engine written in Swift programming language.",
+                "homepage": null,
                 "id": 20571593,
                 "language": "Swift",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-03-17T20:32:47Z",
+                "open_issues": 121,
                 "owner": "httpswift",
                 "repo": "swifter",
-                "stars": 4019
+                "stars": 4019,
+                "topics": [
+                  "http",
+                  "server",
+                  "swift",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -1478,12 +2320,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[DEPRECATED] :bird: A Twitter framework for iOS & OS X written in Swift",
+                "homepage": null,
                 "id": 20619775,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2022-06-23T10:03:20Z",
+                "open_issues": 39,
                 "owner": "mattdonnelly",
                 "repo": "Swifter",
-                "stars": 2348
+                "stars": 2348,
+                "topics": [
+                  "deprecated"
+                ]
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -1494,12 +2343,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An RSS reader app written in Swift",
+                "homepage": null,
                 "id": 20442908,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2018-02-20T12:08:22Z",
+                "open_issues": 4,
                 "owner": "wantedly",
                 "repo": "swift-rss-sample",
-                "stars": 452
+                "stars": 452,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -1510,12 +2364,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple note taking app with today widget and iCloud syncing. Written in swift ",
+                "homepage": null,
                 "id": 20463515,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2015-01-13T22:15:29Z",
+                "open_issues": 0,
                 "owner": "mslathrop",
                 "repo": "SwiftNote",
-                "stars": 201
+                "stars": 201,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -1526,12 +2385,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "iOS app written in Swift",
+                "homepage": null,
                 "id": 20463365,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2016-05-09T18:20:40Z",
+                "open_issues": 3,
                 "owner": "ChrisChares",
                 "repo": "swift-alarm",
-                "stars": 194
+                "stars": 194,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -1542,12 +2406,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "一个基于Swift实现的PM2.5查询示例",
+                "homepage": null,
                 "id": 20830463,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2014-09-12T15:15:08Z",
+                "open_issues": 0,
                 "owner": "v5tech",
                 "repo": "Swift-PM25",
-                "stars": 137
+                "stars": 137,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -1558,12 +2427,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "swift implementation of flappy bird. More at fullstackedu.com",
+                "homepage": "https://www.fullstackedu.com",
                 "id": 20430314,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2023-04-29T03:44:50Z",
+                "open_issues": 19,
                 "owner": "newlinedotco",
                 "repo": "FlappySwift",
-                "stars": 9683
+                "stars": 9682,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             },
@@ -1574,12 +2448,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "翻翻看 Swift 版",
+                "homepage": null,
                 "id": 20547419,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2024-09-02T16:21:03Z",
+                "open_issues": 1,
                 "owner": "geek5nan",
                 "repo": "FanFanSwift",
-                "stars": 209
+                "stars": 209,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
             }
@@ -1593,15 +2472,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:06:19.774Z",
+    "last_updated": "2026-08-29T04:15:02.082Z",
     "original_repository_info": {
       "archived": false,
+      "description": "成为专业程序员路上用到的各种优秀资料、神器及框架",
+      "homepage": "http://tools.stanzhai.site",
       "id": 20992284,
       "language": null,
+      "license": "MIT",
       "last_commit": "2023-02-21T06:47:27Z",
+      "open_issues": 10,
       "owner": "stanzhai",
       "repo": "be-a-professional-programmer",
-      "stars": 9899
+      "stars": 9899,
+      "topics": [
+        "awesome",
+        "programmer",
+        "programmer-tool"
+      ]
     },
     "original_repository_sha": "ad207abd04286568354f2a533979ebdd8906eaa0",
     "enhanced_repository": "enhansome/enhansome-be-a-professional-programmer",

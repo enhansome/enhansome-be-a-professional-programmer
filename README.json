@@ -17,11 +17,11 @@
                 "id": 2325298,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-22T17:36:10Z",
+                "last_commit": "2026-09-23T22:30:27Z",
                 "open_issues": 3,
                 "owner": "torvalds",
                 "repo": "linux",
-                "stars": 249851,
+                "stars": 249947,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
@@ -81,7 +81,7 @@
                 "open_issues": 106,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 509098,
+                "stars": 509540,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -104,11 +104,11 @@
                 "id": 26898879,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-09-22T21:38:11Z",
+                "last_commit": "2026-09-23T17:54:03Z",
                 "open_issues": 160,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 79106,
+                "stars": 79128,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -134,7 +134,7 @@
                 "open_issues": 64,
                 "owner": "xingshaocheng",
                 "repo": "architect-awesome",
-                "stars": 60854,
+                "stars": 60858,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
@@ -155,7 +155,7 @@
                 "open_issues": 41,
                 "owner": "wasabeef",
                 "repo": "awesome-android-ui",
-                "stars": 57693,
+                "stars": 57703,
                 "topics": [
                   "android",
                   "awesome",
@@ -180,7 +180,7 @@
                 "open_issues": 66,
                 "owner": "bayandin",
                 "repo": "awesome-awesomeness",
-                "stars": 33682,
+                "stars": 33684,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
@@ -197,11 +197,11 @@
                 "id": 21515044,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-09-21T18:26:42Z",
+                "last_commit": "2026-09-23T21:20:45Z",
                 "open_issues": 6,
                 "owner": "academic",
                 "repo": "awesome-datascience",
-                "stars": 30055,
+                "stars": 30058,
                 "topics": [
                   "analytics",
                   "awesome-list",
@@ -233,7 +233,7 @@
                 "open_issues": 74,
                 "owner": "carpedm20",
                 "repo": "awesome-hacking",
-                "stars": 17116,
+                "stars": 17120,
                 "topics": [
                   "awesome",
                   "hacking"
@@ -254,10 +254,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-03-23T20:19:22Z",
-                "open_issues": 28,
+                "open_issues": 29,
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11506,
+                "stars": 11507,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -305,7 +305,7 @@
                 "open_issues": 42,
                 "owner": "paragonie",
                 "repo": "awesome-appsec",
-                "stars": 7064,
+                "stars": 7063,
                 "topics": [
                   "application-security",
                   "curated",
@@ -333,7 +333,7 @@
                 "open_issues": 15,
                 "owner": "lightSky",
                 "repo": "Awesome-MaterialDesign",
-                "stars": 5859,
+                "stars": 5858,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
@@ -488,10 +488,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-15T01:10:09Z",
-                "open_issues": 615,
+                "open_issues": 616,
                 "owner": "donnemartin",
                 "repo": "system-design-primer",
-                "stars": 371354,
+                "stars": 371489,
                 "topics": [
                   "design",
                   "design-patterns",
@@ -526,7 +526,7 @@
                 "open_issues": 6,
                 "owner": "justjavac",
                 "repo": "free-programming-books-zh_CN",
-                "stars": 119066,
+                "stars": 119078,
                 "topics": [
                   "android",
                   "angular",
@@ -562,7 +562,7 @@
                 "open_issues": 4,
                 "owner": "papers-we-love",
                 "repo": "papers-we-love",
-                "stars": 109933,
+                "stars": 109957,
                 "topics": [
                   "awesome",
                   "computer-science",
@@ -591,7 +591,7 @@
                 "open_issues": 28,
                 "owner": "mtdvio",
                 "repo": "every-programmer-should-know",
-                "stars": 100474,
+                "stars": 100481,
                 "topics": [
                   "cc-by",
                   "collection",
@@ -615,10 +615,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-22T12:17:28Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74410,
+                "stars": 74428,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
@@ -639,7 +639,7 @@
                 "open_issues": 92,
                 "owner": "ziadoz",
                 "repo": "awesome-php",
-                "stars": 32705,
+                "stars": 32706,
                 "topics": [
                   "awesome",
                   "awesome-lists",
@@ -689,7 +689,7 @@
                 "open_issues": 0,
                 "owner": "dariubs",
                 "repo": "GoBooks",
-                "stars": 19683,
+                "stars": 19685,
                 "topics": [
                   "awesome",
                   "awesome-go",
@@ -996,7 +996,7 @@
                 "open_issues": 16,
                 "owner": "pingcap",
                 "repo": "awesome-database-learning",
-                "stars": 11029,
+                "stars": 11031,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1043,10 +1043,10 @@
                 "language": "Markdown",
                 "license": null,
                 "last_commit": "2026-07-14T19:25:58Z",
-                "open_issues": 646,
+                "open_issues": 649,
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 548865,
+                "stars": 549124,
                 "topics": [
                   "awesome-list",
                   "free",
@@ -1074,7 +1074,7 @@
                 "open_issues": 28,
                 "owner": "realworld-apps",
                 "repo": "realworld",
-                "stars": 84230,
+                "stars": 84231,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
@@ -1095,7 +1095,7 @@
                 "open_issues": 32,
                 "owner": "Trinea",
                 "repo": "android-open-project",
-                "stars": 31804,
+                "stars": 31805,
                 "topics": [
                   "android",
                   "open-source-project"
@@ -1119,7 +1119,7 @@
                 "open_issues": 3,
                 "owner": "Aufree",
                 "repo": "trip-to-iOS",
-                "stars": 7868,
+                "stars": 7869,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
@@ -1212,7 +1212,7 @@
                 "open_issues": 4,
                 "owner": "reactnativecn",
                 "repo": "react-native-guide",
-                "stars": 17823,
+                "stars": 17825,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
@@ -1233,7 +1233,7 @@
                 "open_issues": 1,
                 "owner": "bolshchikov",
                 "repo": "js-must-watch",
-                "stars": 13614,
+                "stars": 13613,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1261,7 +1261,7 @@
                 "open_issues": 1,
                 "owner": "bolshchikov",
                 "repo": "js-must-watch",
-                "stars": 13614,
+                "stars": 13613,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1289,7 +1289,7 @@
                 "open_issues": 33,
                 "owner": "markyun",
                 "repo": "markyun",
-                "stars": 11215,
+                "stars": 11216,
                 "topics": [
                   "front-end",
                   "front-end-developer",
@@ -1335,7 +1335,7 @@
                 "open_issues": 18,
                 "owner": "moklick",
                 "repo": "frontend-stuff",
-                "stars": 8943,
+                "stars": 8948,
                 "topics": [
                   "frontend",
                   "javascript"
@@ -1469,11 +1469,11 @@
                 "id": 32484381,
                 "language": "HTML",
                 "license": null,
-                "last_commit": "2026-09-22T14:26:21Z",
+                "last_commit": "2026-09-23T12:03:55Z",
                 "open_issues": 11,
                 "owner": "ripienaar",
                 "repo": "free-for-dev",
-                "stars": 138019,
+                "stars": 138099,
                 "topics": [
                   "awesome-list",
                   "free-for-developers"
@@ -1497,7 +1497,7 @@
                 "open_issues": 49,
                 "owner": "tiimgreen",
                 "repo": "github-cheat-sheet",
-                "stars": 59227,
+                "stars": 59243,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1521,10 +1521,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-09T20:56:00Z",
-                "open_issues": 2,
+                "open_issues": 0,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 29689,
+                "stars": 29706,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -1549,7 +1549,7 @@
                 "open_issues": 274,
                 "owner": "kahun",
                 "repo": "awesome-sysadmin",
-                "stars": 24337,
+                "stars": 24338,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
@@ -1570,7 +1570,7 @@
                 "open_issues": 273,
                 "owner": "hzlzh",
                 "repo": "Best-App",
-                "stars": 17554,
+                "stars": 17553,
                 "topics": [
                   "app",
                   "mac",
@@ -1591,11 +1591,11 @@
                 "id": 21958186,
                 "language": "Markdown",
                 "license": "MIT",
-                "last_commit": "2026-09-14T12:58:46Z",
+                "last_commit": "2026-09-23T14:38:21Z",
                 "open_issues": 16,
                 "owner": "ellisonleao",
                 "repo": "magictools",
-                "stars": 17348,
+                "stars": 17358,
                 "topics": [
                   "art",
                   "awesome",
@@ -1633,7 +1633,7 @@
                 "open_issues": 1,
                 "owner": "greatghoul",
                 "repo": "remote-working",
-                "stars": 11756,
+                "stars": 11755,
                 "topics": [
                   "china",
                   "freelancer",
@@ -1662,7 +1662,7 @@
                 "open_issues": 542,
                 "owner": "taobao",
                 "repo": "nginx-book",
-                "stars": 6956,
+                "stars": 6955,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
@@ -1683,7 +1683,7 @@
                 "open_issues": 0,
                 "owner": "agis",
                 "repo": "git-style-guide",
-                "stars": 5115,
+                "stars": 5114,
                 "topics": [
                   "git",
                   "style",
@@ -1734,7 +1734,7 @@
                 "open_issues": 2,
                 "owner": "chriskempson",
                 "repo": "base16",
-                "stars": 967,
+                "stars": 968,
                 "topics": [
                   "base16",
                   "colour-schemes",
@@ -1770,11 +1770,11 @@
                 "id": 7569578,
                 "language": "Ruby",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-23T04:21:53Z",
-                "open_issues": 238,
+                "last_commit": "2026-09-24T04:31:54Z",
+                "open_issues": 245,
                 "owner": "discourse",
                 "repo": "discourse",
-                "stars": 47885,
+                "stars": 47890,
                 "topics": [
                   "discourse",
                   "ember",
@@ -1824,7 +1824,7 @@
                 "open_issues": 5,
                 "owner": "wsdjeg",
                 "repo": "SpaceVim",
-                "stars": 20197,
+                "stars": 20198,
                 "topics": [
                   "neovim",
                   "neovim-plugin",
@@ -1892,7 +1892,7 @@
                 "open_issues": 822,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24856,
+                "stars": 24863,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -1924,7 +1924,7 @@
                 "open_issues": 273,
                 "owner": "hzlzh",
                 "repo": "Best-App",
-                "stars": 17554,
+                "stars": 17553,
                 "topics": [
                   "app",
                   "mac",
@@ -1953,10 +1953,10 @@
                 "language": "C",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-04-23T20:34:38Z",
-                "open_issues": 414,
+                "open_issues": 415,
                 "owner": "robertdavidgraham",
                 "repo": "masscan",
-                "stars": 26030,
+                "stars": 26032,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
@@ -1988,7 +1988,7 @@
             "open_issues": 19,
             "owner": "d3",
             "repo": "d3",
-            "stars": 113760,
+            "stars": 113764,
             "topics": [
               "chart",
               "charts",
@@ -2012,8 +2012,8 @@
             "id": 13872231,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T16:36:56Z",
-            "open_issues": 420,
+            "last_commit": "2026-09-23T19:39:56Z",
+            "open_issues": 422,
             "owner": "RaspberryPiFoundation",
             "repo": "blockly",
             "stars": 13569,
@@ -2037,7 +2037,7 @@
             "open_issues": 21,
             "owner": "cytoscape",
             "repo": "cytoscape.js",
-            "stars": 11222,
+            "stars": 11223,
             "topics": [
               "analysis",
               "cytoscapejs",
@@ -2176,11 +2176,11 @@
                 "id": 20300177,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T13:07:24Z",
-                "open_issues": 757,
+                "last_commit": "2026-09-23T19:26:38Z",
+                "open_issues": 756,
                 "owner": "google",
                 "repo": "guava",
-                "stars": 51907,
+                "stars": 51908,
                 "topics": [
                   "guava",
                   "java"
@@ -2300,10 +2300,10 @@
                 "language": "Swift",
                 "license": "BSD-3-Clause",
                 "last_commit": "2024-03-17T20:32:47Z",
-                "open_issues": 121,
+                "open_issues": 120,
                 "owner": "httpswift",
                 "repo": "swifter",
-                "stars": 4018,
+                "stars": 4019,
                 "topics": [
                   "http",
                   "server",
@@ -2472,7 +2472,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T05:05:10.534Z",
+    "last_updated": "2026-09-24T05:16:33.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "成为专业程序员路上用到的各种优秀资料、神器及框架",

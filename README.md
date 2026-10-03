@@ -48,7 +48,7 @@
 
 ### 技术站点
 
-* [GitHub](https://github.com/)：全球最大的源代码管理平台，很多知名开源项目都在上面，如[Linux内核](https://github.com/torvalds/linux) ⭐ 250,874 | 🐛 3 | 🌐 C | 📅 2026-10-03，[OpenStack](https://github.com/openstack/openstack) ⭐ 6,048 | 🐛 1 | 🌐 Python | 📅 2026-10-03等
+* [GitHub](https://github.com/)：全球最大的源代码管理平台，很多知名开源项目都在上面，如[Linux内核](https://github.com/torvalds/linux) ⭐ 250,880 | 🐛 3 | 🌐 C | 📅 2026-10-03，[OpenStack](https://github.com/openstack/openstack) ⭐ 6,048 | 🐛 1 | 🌐 Python | 📅 2026-10-03等
 * 在线学习：[Coursera](https://www.coursera.org/)、[edX](https://www.edx.org/)、[Udacity](https://cn.udacity.com/)、[MIT公开课](https://ocw.mit.edu/index.htm)、[MOOC学院](http://mooc.guokr.com/course/)、[慕课网](http://www.imooc.com/)
 * [Hacker News](https://news.ycombinator.com/)：非常棒的针对编程的链接聚合网站
 * [Techmeme](https://www.techmeme.com/)：美国知名科技新闻和博客聚集网站，类似的还有（Panda, Hacker & Designer News）
@@ -126,9 +126,9 @@
 
 \*\* Awesome \*\*
 
-* [Awesome](https://github.com/sindresorhus/awesome) ⭐ 513,795 | 🐛 106 | 📅 2026-09-02: 这是个Awesome合集，常见的资料这里面都能找到
+* [Awesome](https://github.com/sindresorhus/awesome) ⭐ 513,808 | 🐛 106 | 📅 2026-09-02: 这是个Awesome合集，常见的资料这里面都能找到
 * [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 79,277 | 🐛 161 | 📅 2026-10-02
-* [architect-awesome](https://github.com/xingshaocheng/architect-awesome) ⭐ 60,854 | 🐛 64 | 📅 2024-04-11 - 后端架构师技术图谱
+* [architect-awesome](https://github.com/xingshaocheng/architect-awesome) ⭐ 60,855 | 🐛 64 | 📅 2024-04-11 - 后端架构师技术图谱
 * [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐ 57,805 | 🐛 41 | 📅 2026-06-05
 * [Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,696 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 - 非常不错的语言类学习资料集合
 * [awesome-datascience](https://github.com/okulbilisim/awesome-datascience) ⭐ 30,103 | 🐛 11 | 📅 2026-10-02
@@ -145,11 +145,11 @@
 
 \*\* 书籍资料 \*\*
 
-* [system-design-primer](https://github.com/donnemartin/system-design-primer) ⭐ 372,975 | 🐛 623 | 🌐 Python | 📅 2026-09-15: 系统设计入门
-* [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN) ⭐ 119,208 | 🐛 5 | 📅 2026-07-29
-* [Papers we love](https://github.com/papers-we-love/papers-we-love) ⭐ 110,189 | 🐛 4 | 🌐 Shell | 📅 2026-09-29
+* [system-design-primer](https://github.com/donnemartin/system-design-primer) ⭐ 372,980 | 🐛 623 | 🌐 Python | 📅 2026-09-15: 系统设计入门
+* [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN) ⭐ 119,209 | 🐛 5 | 📅 2026-07-29
+* [Papers we love](https://github.com/papers-we-love/papers-we-love) ⭐ 110,191 | 🐛 4 | 🌐 Shell | 📅 2026-09-29
 * [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know) ⭐ 100,504 | 🐛 28 | 📅 2025-12-29
-* [超级棒的机器学习资料（框架，库，软件）](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,511 | 🐛 22 | 🌐 Python | 📅 2026-09-30, [中文翻译版](http://www.oschina.net/news/53818/awesome-machine-learning)
+* [超级棒的机器学习资料（框架，库，软件）](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,512 | 🐛 22 | 🌐 Python | 📅 2026-09-30, [中文翻译版](http://www.oschina.net/news/53818/awesome-machine-learning)
 * [PHP 类库框架，资料集合](https://github.com/ziadoz/awesome-php) ⭐ 32,722 | 🐛 94 | 📅 2026-09-27
 * [《程序员编程艺术 — 面试和算法心得》](https://github.com/julycoding/The-Art-Of-Programming-By-July) ⭐ 21,506 | 🐛 64 | 🌐 C | 📅 2023-02-26
 * [GoBooks](https://github.com/dariubs/GoBooks) ⭐ 19,702 | 🐛 0 | 🌐 Go | 📅 2026-07-13
@@ -163,7 +163,7 @@
 * [借助开源项目学习软件开发](https://github.com/zhuangbiaowei/learn-with-open-source) ⭐ 1,761 | 🐛 8 | 🌐 Shell | 📅 2022-05-16
 * [一起写Python文章，一起看Python文章](https://github.com/hit9/PyZh) ⭐ 1,415 | 🐛 5 | 🌐 Makefile | 📅 2018-05-07
 * [自然语言处理NLP推荐学习路线及参考资料](https://github.com/JustFollowUs/Natural-Language-Processing) ⭐ 831 | 🐛 0 | 📅 2017-01-21
-* [free-programming-books](https://github.com/bingwen/free-programming-books/blob/master/free-programming-books-ch.md) ⭐ 48 | 🐛 0 | 📅 2013-10-24 [中文版](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md) ⭐ 398,349 | 🐛 85 | 🌐 Python | 📅 2026-10-02
+* [free-programming-books](https://github.com/bingwen/free-programming-books/blob/master/free-programming-books-ch.md) ⭐ 48 | 🐛 0 | 📅 2013-10-24 [中文版](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md) ⭐ 398,355 | 🐛 85 | 🌐 Python | 📅 2026-10-02
 * [Latency Numbers Every Programmer Should Know](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
 * [机器学习(Machine Learning)&深入学习(Deep Learning)资料](http://news.cnblogs.com/n/504467/)
 * [Docker资料合集](http://special.csdncms.csdn.net/BeDocker/)
@@ -181,7 +181,7 @@
 
 \*\* 优秀项目 \*\*
 
-* [Build Your Own X，可以学习各类系统的构建核心实现，非常推荐！](https://github.com/danistefanovic/build-your-own-x) ⭐ 551,245 | 🐛 666 | 🌐 Markdown | 📅 2026-07-14
+* [Build Your Own X，可以学习各类系统的构建核心实现，非常推荐！](https://github.com/danistefanovic/build-your-own-x) ⭐ 551,252 | 🐛 666 | 🌐 Markdown | 📅 2026-07-14
 * [The mother of all demo apps](https://github.com/gothinkster/realworld) ⭐ 84,251 | 🐛 28 | 🌐 TypeScript | 📅 2026-08-26
 * [Android开源项目分类汇总](https://github.com/Trinea/android-open-project) ⭐ 31,804 | 🐛 33 | 📅 2026-03-25
 * [iOS-100个开源组件](https://github.com/Aufree/trip-to-iOS) ⭐ 7,870 | 🐛 3 | 🌐 Objective-C | 📅 2022-05-17
@@ -191,8 +191,8 @@
 
 \*\* 前端 & Node.js \*\*
 
-* [简单清晰的JavaScript语言教程，代码示例](https://github.com/airbnb/javascript) ⭐ 148,300 | 🐛 168 | 🌐 JavaScript | 📅 2026-04-16
-* [JavaScript编程规范](https://github.com/airbnb/javascript) ⭐ 148,300 | 🐛 168 | 🌐 JavaScript | 📅 2026-04-16
+* [简单清晰的JavaScript语言教程，代码示例](https://github.com/airbnb/javascript) ⭐ 148,301 | 🐛 168 | 🌐 JavaScript | 📅 2026-04-16
+* [JavaScript编程规范](https://github.com/airbnb/javascript) ⭐ 148,301 | 🐛 168 | 🌐 JavaScript | 📅 2026-04-16
 * [React-Native学习指南](https://github.com/reactnativecn/react-native-guide) ⭐ 17,822 | 🐛 4 | 📅 2020-07-27
 * [JavaScript必看视频](https://github.com/bolshchikov/js-must-watch) ⭐ 13,621 | 🐛 1 | 📅 2022-01-20
 * [JS必看](https://github.com/bolshchikov/js-must-watch) ⭐ 13,621 | 🐛 1 | 📅 2022-01-20
@@ -213,9 +213,9 @@
 
 \*\* 工作，工具 \*\*
 
-* [开发者工具箱， free-for-dev](https://github.com/ripienaar/free-for-dev) ⭐ 139,095 | 🐛 14 | 🌐 HTML | 📅 2026-10-02
-* [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md) ⭐ 59,418 | 🐛 49 | 📅 2024-04-15
-* [OSINT:dingba.top](http://dingba.top/), [awesome-osint](https://github.com/jivoi/awesome-osint) ⭐ 29,876 | 🐛 2 | 📅 2026-09-09
+* [开发者工具箱， free-for-dev](https://github.com/ripienaar/free-for-dev) ⭐ 139,094 | 🐛 14 | 🌐 HTML | 📅 2026-10-02
+* [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md) ⭐ 59,419 | 🐛 49 | 📅 2024-04-15
+* [OSINT:dingba.top](http://dingba.top/), [awesome-osint](https://github.com/jivoi/awesome-osint) ⭐ 29,877 | 🐛 2 | 📅 2026-09-09
 * [系统管理员工具集合](https://github.com/kahun/awesome-sysadmin) ⭐ 24,354 | 🐛 273 | 📅 2024-03-26
 * [Best-App](https://github.com/hzlzh/Best-App) ⭐ 17,563 | 🐛 265 | 📅 2026-03-17
 * [游戏开发工具集，MagicTools](https://github.com/ellisonleao/magictools) ⭐ 17,407 | 🐛 27 | 🌐 Markdown | 📅 2026-09-26
@@ -232,10 +232,10 @@
 
 ### 平台工具&框架
 
-* [Discourse](https://github.com/discourse/discourse) ⭐ 47,932 | 🐛 253 | 🌐 Ruby | 📅 2026-10-02: Stack Overflow的联合创始人 Jeff Atwood 推出的一个新的开源论坛项目，不少开源项目的社区基于这个项目创建
+* [Discourse](https://github.com/discourse/discourse) ⭐ 47,931 | 🐛 253 | 🌐 Ruby | 📅 2026-10-02: Stack Overflow的联合创始人 Jeff Atwood 推出的一个新的开源论坛项目，不少开源项目的社区基于这个项目创建
 * [Gatling](https://gatling.io/): 服务器性能压力测试工具，类似的还有[wrk](https://github.com/wg/wrk) ⭐ 40,417 | 🐛 203 | 🌐 C | 📅 2023-12-30
 * spf13-vim: 让你的vim飞起来！这货好久没更新了，安装也有问题，比较好的替换是：[SpaceVim](https://github.com/SpaceVim/SpaceVim) ⚠️ Archived
-* 基于Web技术的跨平台应用开发框架：[Revery: facebook基于Reason开发，Native、Fast](https://github.com/revery-ui/revery) ⭐ 8,039 | 🐛 112 | 🌐 Reason | 📅 2022-02-13, [tauri:Rust开发，小而快](https://github.com/tauri-apps/tauri) ⭐ 111,560 | 🐛 1,476 | 🌐 Rust | 📅 2026-10-01，[sciter](https://sciter.com/)，[electron](https://github.com/electron/electron) ⭐ 123,357 | 🐛 719 | 🌐 C++ | 📅 2026-10-02
+* 基于Web技术的跨平台应用开发框架：[Revery: facebook基于Reason开发，Native、Fast](https://github.com/revery-ui/revery) ⭐ 8,039 | 🐛 112 | 🌐 Reason | 📅 2022-02-13, [tauri:Rust开发，小而快](https://github.com/tauri-apps/tauri) ⭐ 111,561 | 🐛 1,477 | 🌐 Rust | 📅 2026-10-01，[sciter](https://sciter.com/)，[electron](https://github.com/electron/electron) ⭐ 123,358 | 🐛 719 | 🌐 C++ | 📅 2026-10-02
 * 云：Rancher > Kubernetes(k8s) > Docker（镜像库：registry，Harbor，JFrog Artifactory）
 * [Jupyter](http://jupyter.org/): IPython Notebook, 有个子项目sparkmagic，可以和Spark集合在一起，类似spark-notebook项目
 * [Swagger](http://swagger.io/): RESTful API设计工具，前后端分离项目必备，顺便推荐下[Easy Mock](https://www.easy-mock.com/)

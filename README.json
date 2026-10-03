@@ -21,7 +21,7 @@
                 "open_issues": 3,
                 "owner": "torvalds",
                 "repo": "linux",
-                "stars": 250874,
+                "stars": 250880,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
@@ -81,7 +81,7 @@
                 "open_issues": 106,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 513795,
+                "stars": 513808,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -134,7 +134,7 @@
                 "open_issues": 64,
                 "owner": "xingshaocheng",
                 "repo": "architect-awesome",
-                "stars": 60854,
+                "stars": 60855,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
@@ -491,7 +491,7 @@
                 "open_issues": 623,
                 "owner": "donnemartin",
                 "repo": "system-design-primer",
-                "stars": 372975,
+                "stars": 372980,
                 "topics": [
                   "design",
                   "design-patterns",
@@ -526,7 +526,7 @@
                 "open_issues": 5,
                 "owner": "justjavac",
                 "repo": "free-programming-books-zh_CN",
-                "stars": 119208,
+                "stars": 119209,
                 "topics": [
                   "android",
                   "angular",
@@ -562,7 +562,7 @@
                 "open_issues": 4,
                 "owner": "papers-we-love",
                 "repo": "papers-we-love",
-                "stars": 110189,
+                "stars": 110191,
                 "topics": [
                   "awesome",
                   "computer-science",
@@ -618,7 +618,7 @@
                 "open_issues": 22,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74511,
+                "stars": 74512,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:06:19.774Z"
@@ -1046,7 +1046,7 @@
                 "open_issues": 666,
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 551245,
+                "stars": 551252,
                 "topics": [
                   "awesome-list",
                   "free",
@@ -1140,7 +1140,7 @@
                 "open_issues": 168,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148300,
+                "stars": 148301,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -1176,7 +1176,7 @@
                 "open_issues": 168,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148300,
+                "stars": 148301,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -1473,7 +1473,7 @@
                 "open_issues": 14,
                 "owner": "ripienaar",
                 "repo": "free-for-dev",
-                "stars": 139095,
+                "stars": 139094,
                 "topics": [
                   "awesome-list",
                   "free-for-developers"
@@ -1497,7 +1497,7 @@
                 "open_issues": 49,
                 "owner": "tiimgreen",
                 "repo": "github-cheat-sheet",
-                "stars": 59418,
+                "stars": 59419,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1524,7 +1524,7 @@
                 "open_issues": 2,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 29876,
+                "stars": 29877,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -1774,7 +1774,7 @@
                 "open_issues": 253,
                 "owner": "discourse",
                 "repo": "discourse",
-                "stars": 47932,
+                "stars": 47931,
                 "topics": [
                   "discourse",
                   "ember",
@@ -2472,7 +2472,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:34:47.791Z",
+    "last_updated": "2026-10-03T05:39:49.007Z",
     "original_repository_info": {
       "archived": false,
       "description": "成为专业程序员路上用到的各种优秀资料、神器及框架",

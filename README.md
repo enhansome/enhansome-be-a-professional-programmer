@@ -48,7 +48,7 @@
 
 ### 技术站点
 
-* [GitHub](https://github.com/)：全球最大的源代码管理平台，很多知名开源项目都在上面，如[Linux内核](https://github.com/torvalds/linux) ⭐ 251,232 | 🐛 3 | 🌐 C | 📅 2026-10-06，[OpenStack](https://github.com/openstack/openstack) ⭐ 6,049 | 🐛 1 | 🌐 Python | 📅 2026-10-06等
+* [GitHub](https://github.com/)：全球最大的源代码管理平台，很多知名开源项目都在上面，如[Linux内核](https://github.com/torvalds/linux) ⭐ 251,240 | 🐛 3 | 🌐 C | 📅 2026-10-06，[OpenStack](https://github.com/openstack/openstack) ⭐ 6,049 | 🐛 1 | 🌐 Python | 📅 2026-10-06等
 * 在线学习：[Coursera](https://www.coursera.org/)、[edX](https://www.edx.org/)、[Udacity](https://cn.udacity.com/)、[MIT公开课](https://ocw.mit.edu/index.htm)、[MOOC学院](http://mooc.guokr.com/course/)、[慕课网](http://www.imooc.com/)
 * [Hacker News](https://news.ycombinator.com/)：非常棒的针对编程的链接聚合网站
 * [Techmeme](https://www.techmeme.com/)：美国知名科技新闻和博客聚集网站，类似的还有（Panda, Hacker & Designer News）
@@ -126,16 +126,16 @@
 
 \*\* Awesome \*\*
 
-* [Awesome](https://github.com/sindresorhus/awesome) ⭐ 515,269 | 🐛 107 | 📅 2026-09-02: 这是个Awesome合集，常见的资料这里面都能找到
-* [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 79,322 | 🐛 161 | 📅 2026-10-05
-* [architect-awesome](https://github.com/xingshaocheng/architect-awesome) ⭐ 60,853 | 🐛 64 | 📅 2024-04-11 - 后端架构师技术图谱
-* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐ 57,844 | 🐛 41 | 📅 2026-06-05
+* [Awesome](https://github.com/sindresorhus/awesome) ⭐ 515,364 | 🐛 106 | 📅 2026-09-02: 这是个Awesome合集，常见的资料这里面都能找到
+* [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 79,328 | 🐛 161 | 📅 2026-10-05
+* [architect-awesome](https://github.com/xingshaocheng/architect-awesome) ⭐ 60,854 | 🐛 64 | 📅 2024-04-11 - 后端架构师技术图谱
+* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐ 57,849 | 🐛 41 | 📅 2026-06-05
 * [Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,705 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 - 非常不错的语言类学习资料集合
 * [awesome-datascience](https://github.com/okulbilisim/awesome-datascience) ⭐ 30,111 | 🐛 12 | 📅 2026-10-02
-* [awesome-hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 17,205 | 🐛 74 | 📅 2024-06-02 - 黑客工具箱
-* [杂七杂八、有用没用的Awesome合集](https://github.com/jnv/lists) ⭐ 11,527 | 🐛 33 | 📅 2026-03-23
+* [awesome-hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 17,209 | 🐛 74 | 📅 2024-06-02 - 黑客工具箱
+* [杂七杂八、有用没用的Awesome合集](https://github.com/jnv/lists) ⭐ 11,528 | 🐛 33 | 📅 2026-03-23
 * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) ⭐ 11,218 | 🐛 14 | 📅 2018-03-08
-* [awesome-AppSec(系统安全)](https://github.com/paragonie/awesome-appsec) ⭐ 7,084 | 🐛 43 | 🌐 PHP | 📅 2025-02-22
+* [awesome-AppSec(系统安全)](https://github.com/paragonie/awesome-appsec) ⭐ 7,085 | 🐛 43 | 🌐 PHP | 📅 2025-02-22
 * [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) ⭐ 5,856 | 🐛 15 | 📅 2018-01-06
 * [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) ⭐ 4,424 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-05 - 数据可视化库及资料
 * [awesome-comment](https://github.com/Blankj/awesome-comment) ⭐ 2,578 | 🐛 14 | 📅 2020-10-10 - 神注释大全
@@ -145,12 +145,12 @@
 
 \*\* 书籍资料 \*\*
 
-* [system-design-primer](https://github.com/donnemartin/system-design-primer) ⭐ 373,322 | 🐛 624 | 🌐 Python | 📅 2026-09-15: 系统设计入门
-* [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN) ⭐ 119,245 | 🐛 5 | 📅 2026-07-29
-* [Papers we love](https://github.com/papers-we-love/papers-we-love) ⭐ 110,273 | 🐛 4 | 🌐 Shell | 📅 2026-09-29
-* [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know) ⭐ 100,516 | 🐛 28 | 📅 2025-12-29
-* [超级棒的机器学习资料（框架，库，软件）](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,528 | 🐛 20 | 🌐 Python | 📅 2026-09-30, [中文翻译版](http://www.oschina.net/news/53818/awesome-machine-learning)
-* [PHP 类库框架，资料集合](https://github.com/ziadoz/awesome-php) ⭐ 32,728 | 🐛 94 | 📅 2026-09-27
+* [system-design-primer](https://github.com/donnemartin/system-design-primer) ⭐ 373,347 | 🐛 624 | 🌐 Python | 📅 2026-09-15: 系统设计入门
+* [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN) ⭐ 119,248 | 🐛 5 | 📅 2026-07-29
+* [Papers we love](https://github.com/papers-we-love/papers-we-love) ⭐ 110,281 | 🐛 4 | 🌐 Shell | 📅 2026-09-29
+* [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know) ⭐ 100,520 | 🐛 28 | 📅 2025-12-29
+* [超级棒的机器学习资料（框架，库，软件）](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,531 | 🐛 20 | 🌐 Python | 📅 2026-09-30, [中文翻译版](http://www.oschina.net/news/53818/awesome-machine-learning)
+* [PHP 类库框架，资料集合](https://github.com/ziadoz/awesome-php) ⭐ 32,729 | 🐛 94 | 📅 2026-09-27
 * [《程序员编程艺术 — 面试和算法心得》](https://github.com/julycoding/The-Art-Of-Programming-By-July) ⭐ 21,507 | 🐛 64 | 🌐 C | 📅 2023-02-26
 * [GoBooks](https://github.com/dariubs/GoBooks) ⭐ 19,707 | 🐛 0 | 🌐 Go | 📅 2026-07-13
 * [Android Learn Notes](https://github.com/GeniusVJR/LearningNotes) ⭐ 13,132 | 🐛 93 | 📅 2024-08-13
@@ -158,12 +158,12 @@
 * [学习使用Strom](https://github.com/apache/incubator-storm/tree/master/examples/storm-starter) ⭐ 6,696 | 🐛 40 | 🌐 Java | 📅 2026-10-03
 * [Data Science blogs](https://github.com/rushter/data-science-blogs) ⭐ 6,338 | 🐛 13 | 🌐 Python | 📅 2024-06-05
 * [分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者](https://github.com/foru17/front-end-collect) ⭐ 5,716 | 🐛 3 | 🌐 JavaScript | 📅 2019-03-23
-* [Spark Internals](https://github.com/JerryLead/SparkInternals/tree/master/markdown) ⭐ 5,357 | 🐛 31 | 📅 2024-04-02
+* [Spark Internals](https://github.com/JerryLead/SparkInternals/tree/master/markdown) ⭐ 5,359 | 🐛 31 | 📅 2024-04-02
 * [HTTP接口设计指南](https://github.com/bolasblack/http-api-guide) ⭐ 2,550 | 🐛 0 | 📅 2025-11-14
 * [借助开源项目学习软件开发](https://github.com/zhuangbiaowei/learn-with-open-source) ⭐ 1,761 | 🐛 8 | 🌐 Shell | 📅 2022-05-16
 * [一起写Python文章，一起看Python文章](https://github.com/hit9/PyZh) ⭐ 1,415 | 🐛 5 | 🌐 Makefile | 📅 2018-05-07
 * [自然语言处理NLP推荐学习路线及参考资料](https://github.com/JustFollowUs/Natural-Language-Processing) ⭐ 831 | 🐛 0 | 📅 2017-01-21
-* [free-programming-books](https://github.com/bingwen/free-programming-books/blob/master/free-programming-books-ch.md) ⭐ 48 | 🐛 0 | 📅 2013-10-24 [中文版](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md) ⭐ 398,568 | 🐛 81 | 🌐 Python | 📅 2026-10-05
+* [free-programming-books](https://github.com/bingwen/free-programming-books/blob/master/free-programming-books-ch.md) ⭐ 48 | 🐛 0 | 📅 2013-10-24 [中文版](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md) ⭐ 398,581 | 🐛 81 | 🌐 Python | 📅 2026-10-05
 * [Latency Numbers Every Programmer Should Know](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
 * [机器学习(Machine Learning)&深入学习(Deep Learning)资料](http://news.cnblogs.com/n/504467/)
 * [Docker资料合集](http://special.csdncms.csdn.net/BeDocker/)
@@ -176,14 +176,14 @@
 
 \*\* 数据库 \*\*
 
-* [PingCAP整理的数据库领域的各种材料](https://github.com/pingcap/awesome-database-learning) ⭐ 11,148 | 🐛 16 | 📅 2024-08-29
+* [PingCAP整理的数据库领域的各种材料](https://github.com/pingcap/awesome-database-learning) ⭐ 11,160 | 🐛 16 | 📅 2024-08-29
 * [Readings in Databases](https://github.com/rxin/db-readings) ⭐ 8,162 | 🐛 10 | 📅 2024-09-09
 
 \*\* 优秀项目 \*\*
 
-* [Build Your Own X，可以学习各类系统的构建核心实现，非常推荐！](https://github.com/danistefanovic/build-your-own-x) ⭐ 551,760 | 🐛 668 | 🌐 Markdown | 📅 2026-07-14
-* [The mother of all demo apps](https://github.com/gothinkster/realworld) ⭐ 84,258 | 🐛 28 | 🌐 TypeScript | 📅 2026-08-26
-* [Android开源项目分类汇总](https://github.com/Trinea/android-open-project) ⭐ 31,805 | 🐛 34 | 📅 2026-03-25
+* [Build Your Own X，可以学习各类系统的构建核心实现，非常推荐！](https://github.com/danistefanovic/build-your-own-x) ⭐ 551,794 | 🐛 668 | 🌐 Markdown | 📅 2026-07-14
+* [The mother of all demo apps](https://github.com/gothinkster/realworld) ⭐ 84,261 | 🐛 28 | 🌐 TypeScript | 📅 2026-08-26
+* [Android开源项目分类汇总](https://github.com/Trinea/android-open-project) ⭐ 31,806 | 🐛 34 | 📅 2026-03-25
 * [iOS-100个开源组件](https://github.com/Aufree/trip-to-iOS) ⭐ 7,870 | 🐛 3 | 🌐 Objective-C | 📅 2022-05-17
 * [最值得关注的10个C语言开源项目](http://news.cnblogs.com/n/506775/)
 * [15款值得学习的小型开源项目](http://code.csdn.net/news/2822568)
@@ -213,12 +213,12 @@
 
 \*\* 工作，工具 \*\*
 
-* [开发者工具箱， free-for-dev](https://github.com/ripienaar/free-for-dev) ⭐ 139,243 | 🐛 12 | 🌐 HTML | 📅 2026-10-06
-* [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md) ⭐ 59,479 | 🐛 50 | 📅 2024-04-15
-* [OSINT:dingba.top](http://dingba.top/), [awesome-osint](https://github.com/jivoi/awesome-osint) ⭐ 29,981 | 🐛 3 | 📅 2026-10-05
+* [开发者工具箱， free-for-dev](https://github.com/ripienaar/free-for-dev) ⭐ 139,255 | 🐛 13 | 🌐 HTML | 📅 2026-10-06
+* [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md) ⭐ 59,485 | 🐛 50 | 📅 2024-04-15
+* [OSINT:dingba.top](http://dingba.top/), [awesome-osint](https://github.com/jivoi/awesome-osint) ⭐ 29,987 | 🐛 0 | 📅 2026-10-06
 * [系统管理员工具集合](https://github.com/kahun/awesome-sysadmin) ⭐ 24,355 | 🐛 273 | 📅 2024-03-26
-* [Best-App](https://github.com/hzlzh/Best-App) ⭐ 17,561 | 🐛 261 | 📅 2026-03-17
-* [游戏开发工具集，MagicTools](https://github.com/ellisonleao/magictools) ⭐ 17,432 | 🐛 31 | 🌐 Markdown | 📅 2026-09-26
+* [Best-App](https://github.com/hzlzh/Best-App) ⭐ 17,559 | 🐛 261 | 📅 2026-03-17
+* [游戏开发工具集，MagicTools](https://github.com/ellisonleao/magictools) ⭐ 17,435 | 🐛 31 | 🌐 Markdown | 📅 2026-09-26
 * [收集整理远程工作相关的资料](https://github.com/greatghoul/remote-working) ⭐ 11,768 | 🐛 1 | 🌐 Ruby | 📅 2026-09-09
 * [Nginx开发从入门到精通](https://github.com/taobao/nginx-book) ⭐ 6,952 | 🐛 542 | 🌐 Python | 📅 2023-11-20
 * [Git风格指南](https://github.com/agis-/git-style-guide) ⭐ 5,112 | 🐛 0 | 📅 2022-09-26
@@ -232,10 +232,10 @@
 
 ### 平台工具&框架
 
-* [Discourse](https://github.com/discourse/discourse) ⭐ 47,933 | 🐛 255 | 🌐 Ruby | 📅 2026-10-06: Stack Overflow的联合创始人 Jeff Atwood 推出的一个新的开源论坛项目，不少开源项目的社区基于这个项目创建
+* [Discourse](https://github.com/discourse/discourse) ⭐ 47,934 | 🐛 262 | 🌐 Ruby | 📅 2026-10-06: Stack Overflow的联合创始人 Jeff Atwood 推出的一个新的开源论坛项目，不少开源项目的社区基于这个项目创建
 * [Gatling](https://gatling.io/): 服务器性能压力测试工具，类似的还有[wrk](https://github.com/wg/wrk) ⭐ 40,418 | 🐛 203 | 🌐 C | 📅 2023-12-30
 * spf13-vim: 让你的vim飞起来！这货好久没更新了，安装也有问题，比较好的替换是：[SpaceVim](https://github.com/SpaceVim/SpaceVim) ⚠️ Archived
-* 基于Web技术的跨平台应用开发框架：[Revery: facebook基于Reason开发，Native、Fast](https://github.com/revery-ui/revery) ⭐ 8,038 | 🐛 112 | 🌐 Reason | 📅 2022-02-13, [tauri:Rust开发，小而快](https://github.com/tauri-apps/tauri) ⭐ 111,609 | 🐛 1,485 | 🌐 Rust | 📅 2026-10-05，[sciter](https://sciter.com/)，[electron](https://github.com/electron/electron) ⭐ 123,401 | 🐛 718 | 🌐 C++ | 📅 2026-10-05
+* 基于Web技术的跨平台应用开发框架：[Revery: facebook基于Reason开发，Native、Fast](https://github.com/revery-ui/revery) ⭐ 8,038 | 🐛 112 | 🌐 Reason | 📅 2022-02-13, [tauri:Rust开发，小而快](https://github.com/tauri-apps/tauri) ⭐ 111,612 | 🐛 1,485 | 🌐 Rust | 📅 2026-10-05，[sciter](https://sciter.com/)，[electron](https://github.com/electron/electron) ⭐ 123,406 | 🐛 717 | 🌐 C++ | 📅 2026-10-05
 * 云：Rancher > Kubernetes(k8s) > Docker（镜像库：registry，Harbor，JFrog Artifactory）
 * [Jupyter](http://jupyter.org/): IPython Notebook, 有个子项目sparkmagic，可以和Spark集合在一起，类似spark-notebook项目
 * [Swagger](http://swagger.io/): RESTful API设计工具，前后端分离项目必备，顺便推荐下[Easy Mock](https://www.easy-mock.com/)
@@ -278,8 +278,8 @@
 
 ### 常用工具
 
-* [Radare2](https://github.com/radareorg/radare2) ⭐ 24,934 | 🐛 789 | 🌐 C | 📅 2026-10-06:逆向工程平台
-* [Mac下的神兵利器](https://github.com/hzlzh/Best-App) ⭐ 17,561 | 🐛 261 | 📅 2026-03-17
+* [Radare2](https://github.com/radareorg/radare2) ⭐ 24,933 | 🐛 787 | 🌐 C | 📅 2026-10-06:逆向工程平台
+* [Mac下的神兵利器](https://github.com/hzlzh/Best-App) ⭐ 17,559 | 🐛 261 | 📅 2026-03-17
 * [EditorConfig](http://editorconfig.org/): 让我们在各种不同IDE或编辑器下写代码保持风格一致
 * [asciinema](https://asciinema.org/): 终端录屏神器
 * Fiddler：非常好用的Web前端调试工具，当然是针对底层http协议的，一般情况使用Chrome等自带的调试工具也足够了，特殊情况还得用它去处理
@@ -420,9 +420,9 @@
 
 ## Web前端
 
-* [d3](https://github.com/d3/d3) ⭐ 113,810 | 🐛 19 | 🌐 Shell | 📅 2026-05-28: 非常知名的数据可视化库（类似的还有NVD3，P5.js，Highcharts，Echart，Flot等）
+* [d3](https://github.com/d3/d3) ⭐ 113,812 | 🐛 19 | 🌐 Shell | 📅 2026-05-28: 非常知名的数据可视化库（类似的还有NVD3，P5.js，Highcharts，Echart，Flot等）
 * [Blockly，谷歌开源的可视化编程组件，不少少儿编程用到了](https://github.com/google/blockly) ⭐ 13,577 | 🐛 427 | 🌐 TypeScript | 📅 2026-10-05
-* [cytoscape.js](https://github.com/cytoscape/cytoscape.js) ⭐ 11,233 | 🐛 18 | 🌐 JavaScript | 📅 2026-10-06: 关系图谱可视化库
+* [cytoscape.js](https://github.com/cytoscape/cytoscape.js) ⭐ 11,233 | 🐛 20 | 🌐 JavaScript | 📅 2026-10-06: 关系图谱可视化库
 * [jsplumb](https://github.com/jsplumb/jsplumb) ⭐ 7,766 | 🐛 0 | 📅 2024-09-27: 流程图可视化库
 * [Raw](https://github.com/densitydesign/raw) ⭐ 336 | 🐛 1 | 📅 2023-05-20：非常不错的一款高级数据可视化工具
 * [Material Design](https://material.io/): 谷歌出品，必属精品
